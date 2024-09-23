@@ -1,0 +1,852 @@
+18:53:49 962(10611)D/perception:auto_track: handle output id x y vx vy: 0.579216,0.115428,0.579216,0.115428
+18:53:50 108(10611)D/perception:auto_track: handle output id x y vx vy la: 0.634001,0.0719945,0.579216,0.115428
+18:53:50 263(10611)D/perception:auto_track: handle output id x y vx vy: 0.833246,0.10377,0.199245,0.0317757
+18:53:50 414(10611)D/perception:auto_track: handle output id x y vx vy la: 0.974676,0.0860115,0.199245,0.0317757
+18:53:50 571(10611)D/perception:auto_track: handle output id x y vx vy: 1.00333,0.0665453,0.0286562,-0.0194663
+18:53:50 693(10611)D/perception:auto_track: handle output id x y vx vy la: 1.00924,0.056031,0.0286562,-0.0194663
+18:53:50 832(10611)D/perception:auto_track: handle output id x y vx vy: 1.00924,0.056031,0,0
+18:53:50 958(10611)D/perception:auto_track: handle output id x y vx vy la: 1.0035,0.0485223,0,0
+18:53:51 099(10611)D/perception:auto_track: handle output id x y vx vy: 0.997769,0.0375696,-0.00572771,-0.0109527
+18:53:51 233(10611)D/perception:auto_track: handle output id x y vx vy la: 0.997796,0.0375694,-0.00572771,-0.0109527
+18:53:51 368(10611)D/perception:auto_track: handle output id x y vx vy: 0.997789,0.0303975,-7.03335e-06,-0.00717191
+18:53:51 528(10611)D/perception:auto_track: handle output id x y vx vy la: 1.01513,0.027325,-7.03335e-06,-0.00717191
+18:53:51 665(10611)D/perception:auto_track: handle output id x y vx vy: 1.11517,0.018591,0.100034,-0.00873398
+18:53:51 805(10611)D/perception:auto_track: handle output id x y vx vy la: 1.15648,0.0275768,0.100034,-0.00873398
+18:53:51 953(10611)D/perception:auto_track: handle output id x y vx vy: 1.19268,0.0493032,0.0362073,0.0217263
+18:53:52 102(10611)D/perception:auto_track: handle output id x y vx vy la: 1.22283,0.0505979,0.0362073,0.0217263
+18:53:52 241(10611)D/perception:auto_track: handle output id x y vx vy: 1.27847,0.0661868,0.0556362,0.0155889
+18:53:52 401(10611)D/perception:auto_track: handle output id x y vx vy la: 1.43126,0.113066,0.0556362,0.0155889
+18:53:52 568(10611)D/perception:auto_track: handle output id x y vx vy: 1.50283,0.138901,0.0715653,0.0258345
+18:53:52 741(10611)D/perception:auto_track: handle output id x y vx vy la: 1.56937,0.144891,0.0715653,0.0258345
+18:53:52 913(10611)D/perception:auto_track: handle output id x y vx vy: 1.60471,0.144429,0.0353405,-0.000462502
+18:53:53 077(10611)D/perception:auto_track: handle output id x y vx vy la: 1.68974,0.0901166,0.0353405,-0.000462502
+18:53:53 267(10611)D/perception:auto_track: handle output id x y vx vy: 1.84575,0.166615,0.156005,0.0764981
+18:53:53 434(10611)D/perception:auto_track: handle output id x y vx vy la: 1.92252,0.0365283,0.156005,0.0764981
+18:53:53 631(10611)D/perception:auto_track: handle output id x y vx vy: 1.98417,0.236795,0.0616541,0.200266
+18:53:53 809(10611)D/perception:auto_track: handle output id x y vx vy la: 1.98417,0.236795,0.0616541,0.200266
+18:53:53 982(10611)D/perception:auto_track: handle output id x y vx vy: 1.98417,0.236795,0,0
+18:53:54 152(10611)D/perception:auto_track: handle output id x y vx vy la: 1.98417,0.236795,0,0
+18:53:54 316(10611)D/perception:auto_track: handle output id x y vx vy: 1.98417,0.236795,0,0
+18:53:54 482(10611)D/perception:auto_track: handle output id x y vx vy la: 1.98417,0.236795,0,0
+18:53:54 640(10611)D/perception:auto_track: handle output id x y vx vy: 1.98417,0.236795,0,0
+18:53:54 809(10611)D/perception:auto_track: handle output id x y vx vy la: 1.98417,0.236795,0,0
+18:53:54 971(10611)D/perception:auto_track: handle output id x y vx vy: 1.98417,0.236795,0,0
+18:53:55 120(10611)D/perception:auto_track: handle output id x y vx vy la: 1.98417,0.236795,0,0
+18:53:55 295(10611)D/perception:auto_track: handle output id x y vx vy: 1.98417,0.236795,0,0
+18:53:55 451(10611)D/perception:auto_track: handle output id x y vx vy la: 1.98417,0.236795,0,0
+18:53:55 616(10611)D/perception:auto_track: handle output id x y vx vy: 1.98417,0.236795,0,0
+18:53:55 769(10611)D/perception:auto_track: handle output id x y vx vy la: 1.98417,0.236795,0,0
+18:53:55 941(10611)D/perception:auto_track: handle output id x y vx vy: 1.98417,0.236795,0,0
+18:53:56 116(10611)D/perception:auto_track: handle output id x y vx vy la: 2.39789,0.7205,0,0
+18:53:56 268(10611)D/perception:auto_track: handle output id x y vx vy: 2.49558,0.7205,0.0976884,0
+18:53:56 432(10611)D/perception:auto_track: handle output id x y vx vy la: 2.40839,0.7205,0.0976884,0
+18:53:56 587(10611)D/perception:auto_track: handle output id x y vx vy: 2.29674,0.7205,-0.111653,0
+18:53:56 720(10611)D/perception:auto_track: handle output id x y vx vy la: 2.49417,0.7205,-0.111653,0
+18:53:56 885(10611)D/perception:auto_track: handle output id x y vx vy: 2.67713,0.7205,0.182956,0
+18:53:57 034(10611)D/perception:auto_track: handle output id x y vx vy la: 2.65615,0.7205,0.182956,0
+18:53:57 195(10611)D/perception:auto_track: handle output id x y vx vy: 2.61736,0.7205,-0.0387962,0
+18:53:57 364(10611)D/perception:auto_track: handle output id x y vx vy la: 2.68211,0.7205,-0.0387962,0
+18:53:57 535(10611)D/perception:auto_track: handle output id x y vx vy: 2.41022,0.7205,-0.271893,0
+18:53:57 695(10611)D/perception:auto_track: handle output id x y vx vy la: 2.46426,0.7205,-0.271893,0
+18:53:57 826(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.7205,-0.0853817,0
+18:53:57 962(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.574767,-0.0853817,0
+18:53:58 113(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.617247,0,0.0424804
+18:53:58 260(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.582854,0,0.0424804
+18:53:58 417(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.547484,0,-0.0353701
+18:53:58 566(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.487774,0,-0.0353701
+18:53:58 713(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.49669,0,0.00891623
+18:53:58 850(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.647348,0,0.00891623
+18:53:58 992(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.669153,0,0.021805
+18:53:59 143(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.689033,0,0.021805
+18:53:59 309(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.706442,0,0.0174093
+18:53:59 465(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.688062,0,0.0174093
+18:53:59 615(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.679866,0,-0.00819629
+18:53:59 744(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.673261,0,-0.00819629
+18:53:59 884(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.659001,0,-0.0142599
+18:54:00 041(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.652741,0,-0.0142599
+18:54:00 184(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.65424,0,0.00149912
+18:54:00 306(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.654134,0,0.00149912
+18:54:00 463(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.551429,0,-0.102705
+18:54:00 606(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.680194,0,-0.102705
+18:54:00 756(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.708312,0,0.0281185
+18:54:00 890(10611)D/perception:auto_track: handle output id x y vx vy la: 2.37887,0.716116,0,0.0281185
+18:54:01 039(10611)D/perception:auto_track: handle output id x y vx vy: 2.37887,0.711718,0,-0.00439858
+18:54:01 181(10611)D/perception:auto_track: handle output id x y vx vy la: 2.68696,0.624271,0,-0.00439858
+18:54:01 338(10611)D/perception:auto_track: handle output id x y vx vy: 2.86486,0.688563,0.177904,0.0642916
+18:54:01 499(10611)D/perception:auto_track: handle output id x y vx vy la: 2.96396,0.680001,0.177904,0.0642916
+18:54:01 670(10611)D/perception:auto_track: handle output id x y vx vy: 2.84587,0.706969,-0.118087,0.0269679
+18:54:01 816(10611)D/perception:auto_track: handle output id x y vx vy la: 2.85312,0.803272,-0.118087,0.0269679
+18:54:01 980(10611)D/perception:auto_track: handle output id x y vx vy: 2.78353,0.799534,-0.069593,-0.00373787
+18:54:02 135(10611)D/perception:auto_track: handle output id x y vx vy la: 2.7622,0.807123,-0.069593,-0.00373787
+18:54:02 279(10611)D/perception:auto_track: handle output id x y vx vy: 2.72823,0.831305,-0.0339627,0.0241817
+18:54:02 424(10611)D/perception:auto_track: handle output id x y vx vy la: 2.73604,0.836468,-0.0339627,0.0241817
+18:54:02 585(10611)D/perception:auto_track: handle output id x y vx vy: 2.7492,0.816374,0.013155,-0.020094
+18:54:02 747(10611)D/perception:auto_track: handle output id x y vx vy la: 2.69269,0.934481,0.013155,-0.020094
+18:54:02 917(10611)D/perception:auto_track: handle output id x y vx vy: 2.70943,0.945648,0.0167367,0.011167
+18:54:03 053(10611)D/perception:auto_track: handle output id x y vx vy la: 2.80109,0.677731,0.0167367,0.011167
+18:54:03 201(10611)D/perception:auto_track: handle output id x y vx vy: 2.86078,0.651464,0.0596924,-0.0262663
+18:54:03 342(10611)D/perception:auto_track: handle output id x y vx vy la: 2.93492,0.62267,0.0596924,-0.0262663
+18:54:03 513(10611)D/perception:auto_track: handle output id x y vx vy: 3.07058,0.604941,0.135659,-0.017729
+18:54:03 672(10611)D/perception:auto_track: handle output id x y vx vy la: 3.13458,0.614658,0.135659,-0.017729
+18:54:03 840(10611)D/perception:auto_track: handle output id x y vx vy: 3.15474,0.632764,0.020153,0.0181063
+18:54:03 981(10611)D/perception:auto_track: handle output id x y vx vy la: 3.20979,0.652326,0.020153,0.0181063
+18:54:04 150(10611)D/perception:auto_track: handle output id x y vx vy: 3.26494,0.656925,0.0551491,0.00459945
+18:54:04 304(10611)D/perception:auto_track: handle output id x y vx vy la: 3.38307,0.682124,0.0551491,0.00459945
+18:54:04 451(10611)D/perception:auto_track: handle output id x y vx vy: 3.50285,0.700199,0.11978,0.0180751
+18:54:04 602(10611)D/perception:auto_track: handle output id x y vx vy la: 3.55415,0.687479,0.11978,0.0180751
+18:54:04 767(10611)D/perception:auto_track: handle output id x y vx vy: 3.5746,0.682704,0.020443,-0.00477487
+18:54:04 922(10611)D/perception:auto_track: handle output id x y vx vy la: 3.62547,0.696492,0.020443,-0.00477487
+18:54:05 080(10611)D/perception:auto_track: handle output id x y vx vy: 3.76775,0.735315,0.142281,0.0388225
+18:54:05 227(10611)D/perception:auto_track: handle output id x y vx vy la: 3.92517,0.791216,0.142281,0.0388225
+18:54:05 397(10611)D/perception:auto_track: handle output id x y vx vy: 3.95152,0.796343,0.026351,0.00512755
+18:54:05 563(10611)D/perception:auto_track: handle output id x y vx vy la: 4.00042,0.812593,0.026351,0.00512755
+18:54:05 747(10611)D/perception:auto_track: handle output id x y vx vy: 4.10012,0.866449,0.0997014,0.053856
+18:54:05 921(10611)D/perception:auto_track: handle output id x y vx vy la: 4.22086,0.971723,0.0997014,0.053856
+18:54:06 086(10611)D/perception:auto_track: handle output id x y vx vy: 4.32959,0.998026,0.108724,0.0263029
+18:54:06 263(10611)D/perception:auto_track: handle output id x y vx vy la: 4.3882,1.05358,0.108724,0.0263029
+18:54:06 415(10611)D/perception:auto_track: handle output id x y vx vy: 4.38674,1.12454,-0.00146294,0.0709624
+18:54:06 588(10611)D/perception:auto_track: handle output id x y vx vy la: 4.4798,1.16467,-0.00146294,0.0709624
+18:54:06 725(10611)D/perception:auto_track: handle output id x y vx vy: 4.63154,1.23415,0.151734,0.0694749
+18:54:06 890(10611)D/perception:auto_track: handle output id x y vx vy la: 4.73206,1.26885,0.151734,0.0694749
+18:54:07 064(10611)D/perception:auto_track: handle output id x y vx vy: 4.81716,1.3389,0.085104,0.0700526
+18:54:07 219(10611)D/perception:auto_track: handle output id x y vx vy la: 4.88727,1.4247,0.085104,0.0700526
+18:54:07 373(10611)D/perception:auto_track: handle output id x y vx vy: 5.01675,1.49376,0.129481,0.0690618
+18:54:07 541(10611)D/perception:auto_track: handle output id x y vx vy la: 5.15634,1.60314,0.129481,0.0690618
+18:54:07 713(10611)D/perception:auto_track: handle output id x y vx vy: 5.19591,1.62048,0.0395727,0.0173368
+18:54:07 892(10611)D/perception:auto_track: handle output id x y vx vy la: 5.24443,1.63874,0.0395727,0.0173368
+18:54:08 055(10611)D/perception:auto_track: handle output id x y vx vy: 5.43243,1.69334,0.187994,0.0546002
+18:54:08 221(10611)D/perception:auto_track: handle output id x y vx vy la: 5.47393,1.82368,0.187994,0.0546002
+18:54:08 382(10611)D/perception:auto_track: handle output id x y vx vy: 5.57653,1.92344,0.102601,0.0997598
+18:54:08 540(10611)D/perception:auto_track: handle output id x y vx vy la: 5.6174,2.00171,0.102601,0.0997598
+18:54:08 696(10611)D/perception:auto_track: handle output id x y vx vy: 5.72646,2.13314,0.109057,0.131433
+18:54:08 859(10611)D/perception:auto_track: handle output id x y vx vy la: 5.75365,2.22057,0.109057,0.131433
+18:54:09 029(10611)D/perception:auto_track: handle output id x y vx vy: 5.8114,2.22446,0.0577497,0.00389099
+18:54:09 194(10611)D/perception:auto_track: handle output id x y vx vy la: 5.84608,2.25647,0.0577497,0.00389099
+18:54:09 352(10611)D/perception:auto_track: handle output id x y vx vy: 5.96954,2.29041,0.123461,0.0339401
+18:54:09 517(10611)D/perception:auto_track: handle output id x y vx vy la: 6.04138,2.30847,0.123461,0.0339401
+18:54:09 684(10611)D/perception:auto_track: handle output id x y vx vy: 6.07621,2.36433,0.0348301,0.0558624
+18:54:09 845(10611)D/perception:auto_track: handle output id x y vx vy la: 6.09408,2.33545,0.0348301,0.0558624
+18:54:09 992(10611)D/perception:auto_track: handle output id x y vx vy: 6.14206,2.38956,0.0479774,0.0541067
+18:54:10 139(10611)D/perception:auto_track: handle output id x y vx vy la: 6.19752,2.41115,0.0479774,0.0541067
+18:54:10 315(10611)D/perception:auto_track: handle output id x y vx vy: 6.29719,2.47958,0.0996709,0.0684271
+18:54:10 480(10611)D/perception:auto_track: handle output id x y vx vy la: 6.40482,2.54434,0.0996709,0.0684271
+18:54:10 636(10611)D/perception:auto_track: handle output id x y vx vy: 6.44522,2.54452,0.0403986,0.000174761
+18:54:10 793(10611)D/perception:auto_track: handle output id x y vx vy la: 6.5183,2.56102,0.0403986,0.000174761
+18:54:10 966(10611)D/perception:auto_track: handle output id x y vx vy: 6.6386,2.67041,0.120301,0.109394
+18:54:11 110(10611)D/perception:auto_track: handle output id x y vx vy la: 6.73868,2.78832,0.120301,0.109394
+18:54:11 283(10611)D/perception:auto_track: handle output id x y vx vy: 6.72799,2.83449,-0.0106902,0.0461655
+18:54:11 439(10611)D/perception:auto_track: handle output id x y vx vy la: 6.80792,2.92118,-0.0106902,0.0461655
+18:54:11 609(10611)D/perception:auto_track: handle output id x y vx vy: 6.87538,2.99177,0.0674629,0.0705862
+18:54:11 782(10611)D/perception:auto_track: handle output id x y vx vy la: 7.03642,3.12457,0.0674629,0.0705862
+18:54:11 943(10611)D/perception:auto_track: handle output id x y vx vy: 7.07303,3.13073,0.0366063,0.00616574
+18:54:12 094(10611)D/perception:auto_track: handle output id x y vx vy la: 7.12775,3.16059,0.0366063,0.00616574
+18:54:12 251(10611)D/perception:auto_track: handle output id x y vx vy: 7.22921,3.19886,0.101461,0.0382667
+18:54:12 409(10611)D/perception:auto_track: handle output id x y vx vy la: 7.34985,3.24329,0.101461,0.0382667
+18:54:12 572(10611)D/perception:auto_track: handle output id x y vx vy: 7.50159,3.30548,0.151737,0.0621815
+18:54:12 734(10611)D/perception:auto_track: handle output id x y vx vy la: 7.57232,3.29488,0.151737,0.0621815
+18:54:12 903(10611)D/perception:auto_track: handle output id x y vx vy: 7.61935,3.29939,0.0470243,0.00450873
+18:54:13 059(10611)D/perception:auto_track: handle output id x y vx vy la: 7.81308,3.45573,0.0470243,0.00450873
+18:54:13 201(10611)D/perception:auto_track: handle output id x y vx vy: 7.88398,3.5476,0.0709014,0.0918729
+18:54:13 357(10611)D/perception:auto_track: handle output id x y vx vy la: 8.00258,3.58889,0.0709014,0.0918729
+18:54:13 520(10611)D/perception:auto_track: handle output id x y vx vy: 8.12665,3.61957,0.124071,0.0306773
+18:54:13 677(10611)D/perception:auto_track: handle output id x y vx vy la: 8.34473,3.71799,0.124071,0.0306773
+18:54:13 841(10611)D/perception:auto_track: handle output id x y vx vy: 8.41266,3.74501,0.067934,0.0270267
+18:54:14 008(10611)D/perception:auto_track: handle output id x y vx vy la: 8.46714,3.75295,0.067934,0.0270267
+18:54:14 163(10611)D/perception:auto_track: handle output id x y vx vy: 8.52624,3.83159,0.0590982,0.0786366
+18:54:14 312(10611)D/perception:auto_track: handle output id x y vx vy la: 8.6486,3.9165,0.0590982,0.0786366
+18:54:14 469(10611)D/perception:auto_track: handle output id x y vx vy: 8.81306,3.94004,0.16446,0.0235426
+18:54:14 641(10611)D/perception:auto_track: handle output id x y vx vy la: 8.84674,3.95723,0.16446,0.0235426
+18:54:14 818(10611)D/perception:auto_track: handle output id x y vx vy: 8.90234,3.97036,0.0555964,0.0131273
+18:54:14 979(10611)D/perception:auto_track: handle output id x y vx vy la: 8.99225,3.98338,0.0555964,0.0131273
+18:54:15 133(10611)D/perception:auto_track: handle output id x y vx vy: 9.13369,4.04595,0.141446,0.0625637
+18:54:15 303(10611)D/perception:auto_track: handle output id x y vx vy la: 9.23399,4.073,0.141446,0.0625637
+18:54:15 469(10611)D/perception:auto_track: handle output id x y vx vy: 9.27302,4.09312,0.039032,0.0201249
+18:54:15 626(10611)D/perception:auto_track: handle output id x y vx vy la: 9.31666,4.07277,0.039032,0.0201249
+18:54:15 781(10611)D/perception:auto_track: handle output id x y vx vy: 9.3445,4.08459,0.0278454,0.0118175
+18:54:15 966(10611)D/perception:auto_track: handle output id x y vx vy la: 9.42642,4.10983,0.0278454,0.0118175
+18:54:16 122(10611)D/perception:auto_track: handle output id x y vx vy: 9.62832,4.18146,0.201894,0.0716333
+18:54:16 272(10611)D/perception:auto_track: handle output id x y vx vy la: 9.68008,4.19514,0.201894,0.0716333
+18:54:16 429(10611)D/perception:auto_track: handle output id x y vx vy: 9.7042,4.20349,0.0241146,0.0083499
+18:54:16 594(10611)D/perception:auto_track: handle output id x y vx vy la: 9.74447,4.23245,0.0241146,0.0083499
+18:54:16 768(10611)D/perception:auto_track: handle output id x y vx vy: 9.8719,4.30893,0.12743,0.0764842
+18:54:16 936(10611)D/perception:auto_track: handle output id x y vx vy la: 9.93967,4.36873,0.12743,0.0764842
+18:54:17 115(10611)D/perception:auto_track: handle output id x y vx vy: 9.99434,4.39416,0.054678,0.0254292
+18:54:17 291(10611)D/perception:auto_track: handle output id x y vx vy la: 10.0089,4.39952,0.054678,0.0254292
+18:54:17 469(10611)D/perception:auto_track: handle output id x y vx vy: 10.0332,4.47745,0.0243521,0.0779214
+18:54:17 633(10611)D/perception:auto_track: handle output id x y vx vy la: 9.99491,4.49572,0.0243521,0.0779214
+18:54:17 816(10611)D/perception:auto_track: handle output id x y vx vy: 10.0376,4.52292,0.0426912,0.0272055
+18:54:17 969(10611)D/perception:auto_track: handle output id x y vx vy la: 10.0422,4.53421,0.0426912,0.0272055
+18:54:18 128(10611)D/perception:auto_track: handle output id x y vx vy: 10.0167,4.54525,-0.0254526,0.0110416
+18:54:18 293(10611)D/perception:auto_track: handle output id x y vx vy la: 10.0933,4.56135,-0.0254526,0.0110416
+18:54:18 434(10611)D/perception:auto_track: handle output id x y vx vy: 10.0776,4.57489,-0.0156965,0.0135403
+18:54:18 595(10611)D/perception:auto_track: handle output id x y vx vy la: 10.0605,4.59822,-0.0156965,0.0135403
+18:54:18 755(10611)D/perception:auto_track: handle output id x y vx vy: 10.0899,4.59723,0.0293865,-0.000987053
+18:54:18 937(10611)D/perception:auto_track: handle output id x y vx vy la: 10.1626,4.63692,0.0293865,-0.000987053
+18:54:19 105(10611)D/perception:auto_track: handle output id x y vx vy: 10.2625,4.62679,0.0998611,-0.0101318
+18:54:19 257(10611)D/perception:auto_track: handle output id x y vx vy la: 10.3145,4.61986,0.0998611,-0.0101318
+18:54:19 412(10611)D/perception:auto_track: handle output id x y vx vy: 10.3143,4.62153,-0.000190735,0.00166798
+18:54:19 550(10611)D/perception:auto_track: handle output id x y vx vy la: 10.3359,4.63534,-0.000190735,0.00166798
+18:54:19 713(10611)D/perception:auto_track: handle output id x y vx vy: 10.339,4.6851,0.00313854,0.049767
+18:54:19 869(10611)D/perception:auto_track: handle output id x y vx vy la: 10.4528,4.67936,0.00313854,0.049767
+18:54:20 018(10611)D/perception:auto_track: handle output id x y vx vy: 10.5927,4.69784,0.139884,0.0184789
+18:54:20 181(10611)D/perception:auto_track: handle output id x y vx vy la: 10.6434,4.79939,0.139884,0.0184789
+18:54:20 326(10611)D/perception:auto_track: handle output id x y vx vy: 10.7102,4.83966,0.0667219,0.0402708
+18:54:20 487(10611)D/perception:auto_track: handle output id x y vx vy la: 10.8447,4.84323,0.0667219,0.0402708
+18:54:20 630(10611)D/perception:auto_track: handle output id x y vx vy: 10.9807,4.92698,0.136032,0.0837436
+18:54:20 789(10611)D/perception:auto_track: handle output id x y vx vy la: 11.0668,4.96864,0.136032,0.0837436
+18:54:20 954(10611)D/perception:auto_track: handle output id x y vx vy: 11.0961,4.99057,0.0293293,0.0219355
+18:54:21 130(10611)D/perception:auto_track: handle output id x y vx vy la: 11.2168,4.97374,0.0293293,0.0219355
+18:54:21 304(10611)D/perception:auto_track: handle output id x y vx vy: 11.3386,5.02168,0.121855,0.0479364
+18:54:21 467(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4917,5.08139,0.121855,0.0479364
+18:54:21 639(10611)D/perception:auto_track: handle output id x y vx vy: 11.562,5.10219,0.0703201,0.0207968
+18:54:21 793(10611)D/perception:auto_track: handle output id x y vx vy la: 11.759,5.15344,0.0703201,0.0207968
+18:54:21 937(10611)D/perception:auto_track: handle output id x y vx vy: 11.8552,5.18696,0.0961895,0.0335155
+18:54:22 087(10611)D/perception:auto_track: handle output id x y vx vy la: 12.0155,5.27842,0.0961895,0.0335155
+18:54:22 244(10611)D/perception:auto_track: handle output id x y vx vy: 12.0753,5.30412,0.0597677,0.0256958
+18:54:22 376(10611)D/perception:auto_track: handle output id x y vx vy la: 12.1763,5.37024,0.0597677,0.0256958
+18:54:22 542(10611)D/perception:auto_track: handle output id x y vx vy: 12.3974,5.45934,0.221058,0.0891013
+18:54:22 692(10611)D/perception:auto_track: handle output id x y vx vy la: 12.4815,5.52689,0.221058,0.0891013
+18:54:22 838(10611)D/perception:auto_track: handle output id x y vx vy: 12.5893,5.59238,0.107804,0.0654936
+18:54:22 990(10611)D/perception:auto_track: handle output id x y vx vy la: 12.7422,5.69076,0.107804,0.0654936
+18:54:23 147(10611)D/perception:auto_track: handle output id x y vx vy: 12.9249,5.7926,0.182707,0.101834
+18:54:23 310(10611)D/perception:auto_track: handle output id x y vx vy la: 12.9818,5.82255,0.182707,0.101834
+18:54:23 452(10611)D/perception:auto_track: handle output id x y vx vy: 13.0505,5.8506,0.0686855,0.0280485
+18:54:23 607(10611)D/perception:auto_track: handle output id x y vx vy la: 13.1949,5.8937,0.0686855,0.0280485
+18:54:23 766(10611)D/perception:auto_track: handle output id x y vx vy: 13.4648,5.94626,0.269928,0.0525603
+18:54:23 939(10611)D/perception:auto_track: handle output id x y vx vy la: 13.5971,6.00378,0.269928,0.0525603
+18:54:24 090(10611)D/perception:auto_track: handle output id x y vx vy: 13.6851,6.09107,0.0879488,0.0872946
+18:54:24 252(10611)D/perception:auto_track: handle output id x y vx vy la: 13.9581,6.14912,0.0879488,0.0872946
+18:54:24 417(10611)D/perception:auto_track: handle output id x y vx vy: 14.1684,6.17491,0.210302,0.0257883
+18:54:24 593(10611)D/perception:auto_track: handle output id x y vx vy la: 14.2986,6.12988,0.210302,0.0257883
+18:54:24 747(10611)D/perception:auto_track: handle output id x y vx vy: 14.5578,6.14088,0.259203,0.0110049
+18:54:24 894(10611)D/perception:auto_track: handle output id x y vx vy la: 14.722,6.20596,0.259203,0.0110049
+18:54:25 081(10611)D/perception:auto_track: handle output id x y vx vy: 14.8918,6.20342,0.169792,-0.00253963
+18:54:25 228(10611)D/perception:auto_track: handle output id x y vx vy la: 15.0772,6.22833,0.169792,-0.00253963
+18:54:25 380(10611)D/perception:auto_track: handle output id x y vx vy: 15.1619,6.24395,0.0847054,0.0156283
+18:54:25 550(10611)D/perception:auto_track: handle output id x y vx vy la: 15.353,6.32855,0.0847054,0.0156283
+18:54:25 706(10611)D/perception:auto_track: handle output id x y vx vy: 15.4705,6.33925,0.117416,0.0107017
+18:54:25 859(10611)D/perception:auto_track: handle output id x y vx vy la: 15.571,6.38114,0.117416,0.0107017
+18:54:26 034(10611)D/perception:auto_track: handle output id x y vx vy: 15.7279,6.39503,0.156965,0.0138893
+18:54:26 190(10611)D/perception:auto_track: handle output id x y vx vy la: 15.8802,6.44183,0.156965,0.0138893
+18:54:26 344(10611)D/perception:auto_track: handle output id x y vx vy: 15.9621,6.46965,0.081893,0.0278168
+18:54:26 480(10611)D/perception:auto_track: handle output id x y vx vy la: 16.0331,6.48085,0.081893,0.0278168
+18:54:26 643(10611)D/perception:auto_track: handle output id x y vx vy: 16.1868,6.53177,0.153688,0.0509186
+18:54:26 807(10611)D/perception:auto_track: handle output id x y vx vy la: 16.3526,6.5771,0.153688,0.0509186
+18:54:26 992(10611)D/perception:auto_track: handle output id x y vx vy: 16.4035,6.57772,0.0509415,0.000626087
+18:54:27 167(10611)D/perception:auto_track: handle output id x y vx vy la: 16.5088,6.60623,0.0509415,0.000626087
+18:54:27 329(10611)D/perception:auto_track: handle output id x y vx vy: 16.6415,6.63147,0.132765,0.0252419
+18:54:27 502(10611)D/perception:auto_track: handle output id x y vx vy la: 16.8382,6.66741,0.132765,0.0252419
+18:54:27 666(10611)D/perception:auto_track: handle output id x y vx vy: 16.9531,6.7101,0.114893,0.0426884
+18:54:27 805(10611)D/perception:auto_track: handle output id x y vx vy la: 16.9338,6.68776,0.114893,0.0426884
+18:54:27 959(10611)D/perception:auto_track: handle output id x y vx vy: 17.0583,6.71189,0.124495,0.0241289
+18:54:28 120(10611)D/perception:auto_track: handle output id x y vx vy la: 17.2232,6.7292,0.124495,0.0241289
+18:54:28 292(10611)D/perception:auto_track: handle output id x y vx vy: 17.3991,6.75722,0.175814,0.0280185
+18:54:28 467(10611)D/perception:auto_track: handle output id x y vx vy la: 17.394,6.79689,0.175814,0.0280185
+18:54:28 639(10611)D/perception:auto_track: handle output id x y vx vy: 17.5256,6.84962,0.131628,0.0527287
+18:54:28 803(10611)D/perception:auto_track: handle output id x y vx vy la: 17.6833,6.89187,0.131628,0.0527287
+18:54:28 959(10611)D/perception:auto_track: handle output id x y vx vy: 17.856,7.00682,0.172729,0.114949
+18:54:29 110(10611)D/perception:auto_track: handle output id x y vx vy la: 18.142,7.2171,0.172729,0.114949
+18:54:29 270(10611)D/perception:auto_track: handle output id x y vx vy: 18.0806,7.16968,-0.0613689,-0.0474205
+18:54:29 434(10611)D/perception:auto_track: handle output id x y vx vy la: 18.2736,7.31367,-0.0613689,-0.0474205
+18:54:29 613(10611)D/perception:auto_track: handle output id x y vx vy: 18.4008,7.41085,0.127241,0.0971775
+18:54:29 775(10611)D/perception:auto_track: handle output id x y vx vy la: 18.4211,7.45324,0.127241,0.0971775
+18:54:29 923(10611)D/perception:auto_track: handle output id x y vx vy: 18.521,7.48207,0.0999146,0.0288291
+18:54:30 062(10611)D/perception:auto_track: handle output id x y vx vy la: 18.7924,7.63385,0.0999146,0.0288291
+18:54:30 240(10611)D/perception:auto_track: handle output id x y vx vy: 18.8234,7.68224,0.0309353,0.0483818
+18:54:30 403(10611)D/perception:auto_track: handle output id x y vx vy la: 18.8647,7.73781,0.0309353,0.0483818
+18:54:30 583(10611)D/perception:auto_track: handle output id x y vx vy: 18.9843,7.88173,0.119623,0.14392
+18:54:30 752(10611)D/perception:auto_track: handle output id x y vx vy la: 19.1037,8.02117,0.119623,0.14392
+18:54:30 931(10611)D/perception:auto_track: handle output id x y vx vy: 19.2898,7.97219,0.186045,-0.0489764
+18:54:31 109(10611)D/perception:auto_track: handle output id x y vx vy la: 19.4596,7.97896,0.186045,-0.0489764
+18:54:31 263(10611)D/perception:auto_track: handle output id x y vx vy: 19.6432,8.06692,0.183552,0.0879641
+18:54:31 412(10611)D/perception:auto_track: handle output id x y vx vy la: 19.8172,8.14299,0.183552,0.0879641
+18:54:31 566(10611)D/perception:auto_track: handle output id x y vx vy: 19.8735,8.14579,0.0563297,0.00279617
+18:54:31 716(10611)D/perception:auto_track: handle output id x y vx vy la: 20.004,8.1929,0.0563297,0.00279617
+18:54:31 873(10611)D/perception:auto_track: handle output id x y vx vy: 20.1512,8.2392,0.147236,0.0462961
+18:54:32 049(10611)D/perception:auto_track: handle output id x y vx vy la: 20.2909,8.2874,0.147236,0.0462961
+18:54:32 232(10611)D/perception:auto_track: handle output id x y vx vy: 20.4141,8.3017,0.123217,0.0142975
+18:54:32 415(10611)D/perception:auto_track: handle output id x y vx vy la: 20.582,8.33443,0.123217,0.0142975
+18:54:32 579(10611)D/perception:auto_track: handle output id x y vx vy: 20.7466,8.38998,0.164597,0.0555468
+18:54:32 733(10611)D/perception:auto_track: handle output id x y vx vy la: 20.8392,8.40681,0.164597,0.0555468
+18:54:32 898(10611)D/perception:auto_track: handle output id x y vx vy: 20.9243,8.46382,0.0851097,0.0570107
+18:54:33 081(10611)D/perception:auto_track: handle output id x y vx vy la: 21.0686,8.56075,0.0851097,0.0570107
+18:54:33 277(10611)D/perception:auto_track: handle output id x y vx vy: 21.2626,8.67754,0.194046,0.116787
+18:54:33 435(10611)D/perception:auto_track: handle output id x y vx vy la: 21.3063,8.70005,0.194046,0.116787
+18:54:33 588(10611)D/perception:auto_track: handle output id x y vx vy: 21.3669,8.74275,0.0606251,0.0426941
+18:54:33 740(10611)D/perception:auto_track: handle output id x y vx vy la: 21.4591,8.8107,0.0606251,0.0426941
+18:54:33 884(10611)D/perception:auto_track: handle output id x y vx vy: 21.602,8.89536,0.142941,0.0846596
+18:54:34 037(10611)D/perception:auto_track: handle output id x y vx vy la: 21.6357,8.93062,0.142941,0.0846596
+18:54:34 203(10611)D/perception:auto_track: handle output id x y vx vy: 21.7354,8.99059,0.099781,0.0599766
+18:54:34 366(10611)D/perception:auto_track: handle output id x y vx vy la: 21.8442,9.04456,0.099781,0.0599766
+18:54:34 524(10611)D/perception:auto_track: handle output id x y vx vy: 21.9922,9.09056,0.148027,0.0459957
+18:54:34 680(10611)D/perception:auto_track: handle output id x y vx vy la: 22.0999,9.13809,0.148027,0.0459957
+18:54:34 865(10611)D/perception:auto_track: handle output id x y vx vy: 22.145,9.13559,0.0451012,-0.00250626
+18:54:35 024(10611)D/perception:auto_track: handle output id x y vx vy la: 22.319,9.18836,0.0451012,-0.00250626
+18:54:35 192(10611)D/perception:auto_track: handle output id x y vx vy: 22.446,9.24231,0.12701,0.0539579
+18:54:35 351(10611)D/perception:auto_track: handle output id x y vx vy la: 22.5255,9.23961,0.12701,0.0539579
+18:54:35 512(10611)D/perception:auto_track: handle output id x y vx vy: 22.6351,9.29087,0.109673,0.0512629
+18:54:35 657(10611)D/perception:auto_track: handle output id x y vx vy la: 22.7545,9.35157,0.109673,0.0512629
+18:54:35 828(10611)D/perception:auto_track: handle output id x y vx vy: 22.9502,9.44657,0.195728,0.0950031
+18:54:35 969(10611)D/perception:auto_track: handle output id x y vx vy la: 23.0361,9.46838,0.195728,0.0950031
+18:54:36 127(10611)D/perception:auto_track: handle output id x y vx vy: 23.1105,9.52885,0.0744362,0.0604668
+18:54:36 305(10611)D/perception:auto_track: handle output id x y vx vy la: 23.3238,9.66293,0.0744362,0.0604668
+18:54:36 454(10611)D/perception:auto_track: handle output id x y vx vy: 23.4338,9.72157,0.109991,0.0586348
+18:54:36 624(10611)D/perception:auto_track: handle output id x y vx vy la: 23.4908,9.75046,0.109991,0.0586348
+18:54:36 803(10611)D/perception:auto_track: handle output id x y vx vy: 23.6041,9.76965,0.11334,0.0191898
+18:54:36 953(10611)D/perception:auto_track: handle output id x y vx vy la: 23.7689,9.87769,0.11334,0.0191898
+18:54:37 120(10611)D/perception:auto_track: handle output id x y vx vy: 23.9917,9.94433,0.222809,0.0666418
+18:54:37 280(10611)D/perception:auto_track: handle output id x y vx vy la: 24.0189,9.9737,0.222809,0.0666418
+18:54:37 437(10611)D/perception:auto_track: handle output id x y vx vy: 24.1538,10.0484,0.134869,0.074667
+18:54:37 583(10611)D/perception:auto_track: handle output id x y vx vy la: 24.2889,10.1319,0.134869,0.074667
+18:54:37 756(10611)D/perception:auto_track: handle output id x y vx vy: 24.4192,10.1603,0.130342,0.0284481
+18:54:37 913(10611)D/perception:auto_track: handle output id x y vx vy la: 24.5164,10.2068,0.130342,0.0284481
+18:54:38 091(10611)D/perception:auto_track: handle output id x y vx vy: 24.6448,10.2362,0.128399,0.0294123
+18:54:38 240(10611)D/perception:auto_track: handle output id x y vx vy la: 24.8163,10.2998,0.128399,0.0294123
+18:54:38 396(10611)D/perception:auto_track: handle output id x y vx vy: 24.9214,10.3377,0.105143,0.0379362
+18:54:38 556(10611)D/perception:auto_track: handle output id x y vx vy la: 24.9491,10.3242,0.105143,0.0379362
+18:54:38 712(10611)D/perception:auto_track: handle output id x y vx vy: 25.0971,10.3323,0.147978,0.00801945
+18:54:38 893(10611)D/perception:auto_track: handle output id x y vx vy la: 25.2815,10.3681,0.147978,0.00801945
+18:54:39 054(10611)D/perception:auto_track: handle output id x y vx vy: 25.3839,10.4551,0.102381,0.0870113
+18:54:39 210(10611)D/perception:auto_track: handle output id x y vx vy la: 25.4623,10.4745,0.102381,0.0870113
+18:54:39 357(10611)D/perception:auto_track: handle output id x y vx vy: 25.5897,10.5597,0.127401,0.085206
+18:54:39 516(10611)D/perception:auto_track: handle output id x y vx vy la: 25.7743,10.5993,0.127401,0.085206
+18:54:39 663(10611)D/perception:auto_track: handle output id x y vx vy: 25.8907,10.6376,0.116379,0.0382767
+18:54:39 810(10611)D/perception:auto_track: handle output id x y vx vy la: 25.993,10.6729,0.116379,0.0382767
+18:54:39 983(10611)D/perception:auto_track: handle output id x y vx vy: 26.1213,10.6889,0.128267,0.0160618
+18:54:40 132(10611)D/perception:auto_track: handle output id x y vx vy la: 26.3813,10.7418,0.128267,0.0160618
+18:54:40 294(10611)D/perception:auto_track: handle output id x y vx vy: 26.4131,10.7607,0.0318317,0.0189447
+18:54:40 440(10611)D/perception:auto_track: handle output id x y vx vy la: 26.512,10.8126,0.0318317,0.0189447
+18:54:40 586(10611)D/perception:auto_track: handle output id x y vx vy: 26.6463,10.8029,0.13422,-0.00973797
+18:54:40 729(10611)D/perception:auto_track: handle output id x y vx vy la: 26.8046,10.8061,0.13422,-0.00973797
+18:54:40 905(10611)D/perception:auto_track: handle output id x y vx vy: 26.9663,10.8393,0.161749,0.0331821
+18:54:41 053(10611)D/perception:auto_track: handle output id x y vx vy la: 27.0505,10.8805,0.161749,0.0331821
+18:54:41 202(10611)D/perception:auto_track: handle output id x y vx vy: 27.243,10.8792,0.19249,-0.0012331
+18:54:41 360(10611)D/perception:auto_track: handle output id x y vx vy la: 27.4156,10.8937,0.19249,-0.0012331
+18:54:41 520(10611)D/perception:auto_track: handle output id x y vx vy: 27.5315,10.9405,0.115965,0.0467243
+18:54:41 675(10611)D/perception:auto_track: handle output id x y vx vy la: 27.5829,10.95,0.115965,0.0467243
+18:54:41 827(10611)D/perception:auto_track: handle output id x y vx vy: 27.7078,10.9867,0.124958,0.036685
+18:54:41 979(10611)D/perception:auto_track: handle output id x y vx vy la: 27.8648,11.0311,0.124958,0.036685
+18:54:42 135(10611)D/perception:auto_track: handle output id x y vx vy: 27.9409,11.0556,0.0761433,0.0244389
+18:54:42 298(10611)D/perception:auto_track: handle output id x y vx vy la: 28.0048,11.0643,0.0761433,0.0244389
+18:54:42 470(10611)D/perception:auto_track: handle output id x y vx vy: 28.1446,11.0819,0.139791,0.0176773
+18:54:42 632(10611)D/perception:auto_track: handle output id x y vx vy la: 28.3289,11.0783,0.139791,0.0176773
+18:54:42 817(10611)D/perception:auto_track: handle output id x y vx vy: 28.4145,11.0449,0.0855503,-0.0334024
+18:54:42 988(10611)D/perception:auto_track: handle output id x y vx vy la: 28.4176,11.0744,0.0855503,-0.0334024
+18:54:43 146(10611)D/perception:auto_track: handle output id x y vx vy: 28.5286,11.0732,0.110981,-0.0012722
+18:54:43 295(10611)D/perception:auto_track: handle output id x y vx vy la: 28.6491,11.0348,0.110981,-0.0012722
+18:54:43 465(10611)D/perception:auto_track: handle output id x y vx vy: 28.7185,11.1528,0.0694351,0.118052
+18:54:43 625(10611)D/perception:auto_track: handle output id x y vx vy la: 28.771,11.1521,0.0694351,0.118052
+18:54:43 803(10611)D/perception:auto_track: handle output id x y vx vy: 28.9785,10.9288,0.207516,-0.223303
+18:54:43 958(10611)D/perception:auto_track: handle output id x y vx vy la: 29.1727,10.8049,0.207516,-0.223303
+18:54:44 145(10611)D/perception:auto_track: handle output id x y vx vy: 29.2476,10.7213,0.0748806,-0.0835762
+18:54:44 309(10611)D/perception:auto_track: handle output id x y vx vy la: 29.3314,10.604,0.0748806,-0.0835762
+18:54:44 484(10611)D/perception:auto_track: handle output id x y vx vy: 29.3873,10.5017,0.0559235,-0.102298
+18:54:44 661(10611)D/perception:auto_track: handle output id x y vx vy la: 29.5156,10.3602,0.0559235,-0.102298
+18:54:44 848(10611)D/perception:auto_track: handle output id x y vx vy: 29.5729,10.3872,0.0572186,0.0269794
+18:54:45 011(10611)D/perception:auto_track: handle output id x y vx vy la: 29.6626,10.0378,0.0572186,0.0269794
+18:54:45 195(10611)D/perception:auto_track: handle output id x y vx vy: 29.7564,9.96628,0.0937614,-0.0715446
+18:54:45 371(10611)D/perception:auto_track: handle output id x y vx vy la: 29.8375,9.78774,0.0937614,-0.0715446
+18:54:45 513(10611)D/perception:auto_track: handle output id x y vx vy: 29.7811,9.80857,-0.0564156,0.0208387
+18:54:45 674(10611)D/perception:auto_track: handle output id x y vx vy la: 29.9672,9.68463,-0.0564156,0.0208387
+18:54:45 833(10611)D/perception:auto_track: handle output id x y vx vy: 30.1049,9.50265,0.137623,-0.181976
+18:54:45 992(10611)D/perception:auto_track: handle output id x y vx vy la: 30.1499,9.42003,0.137623,-0.181976
+18:54:46 163(10611)D/perception:auto_track: handle output id x y vx vy: 30.1969,9.28238,0.0469971,-0.137652
+18:54:46 314(10611)D/perception:auto_track: handle output id x y vx vy la: 30.223,9.10463,0.0469971,-0.137652
+18:54:46 478(10611)D/perception:auto_track: handle output id x y vx vy: 30.1946,8.91864,-0.0283451,-0.185993
+18:54:46 641(10611)D/perception:auto_track: handle output id x y vx vy la: 30.2656,8.9011,-0.0283451,-0.185993
+18:54:46 823(10611)D/perception:auto_track: handle output id x y vx vy: 30.2842,8.82285,0.0186405,-0.0782452
+18:54:46 982(10611)D/perception:auto_track: handle output id x y vx vy la: 30.2851,8.6391,0.0186405,-0.0782452
+18:54:47 140(10611)D/perception:auto_track: handle output id x y vx vy: 30.3276,8.47724,0.0425053,-0.16186
+18:54:47 307(10611)D/perception:auto_track: handle output id x y vx vy la: 30.3894,8.34883,0.0425053,-0.16186
+18:54:47 472(10611)D/perception:auto_track: handle output id x y vx vy: 30.4575,8.27937,0.0681095,-0.0694532
+18:54:47 627(10611)D/perception:auto_track: handle output id x y vx vy la: 30.5592,8.09446,0.0681095,-0.0694532
+18:54:47 790(10611)D/perception:auto_track: handle output id x y vx vy: 30.6109,7.91757,0.0516911,-0.176893
+18:54:47 946(10611)D/perception:auto_track: handle output id x y vx vy la: 30.6376,7.77482,0.0516911,-0.176893
+18:54:48 097(10611)D/perception:auto_track: handle output id x y vx vy: 30.7202,7.54083,0.0826511,-0.233988
+18:54:48 237(10611)D/perception:auto_track: handle output id x y vx vy la: 30.7805,7.42959,0.0826511,-0.233988
+18:54:48 385(10611)D/perception:auto_track: handle output id x y vx vy: 30.8613,7.2745,0.0807247,-0.155099
+18:54:48 541(10611)D/perception:auto_track: handle output id x y vx vy la: 30.9083,7.17043,0.0807247,-0.155099
+18:54:48 679(10611)D/perception:auto_track: handle output id x y vx vy: 30.9519,7.06459,0.0435905,-0.105835
+18:54:48 832(10611)D/perception:auto_track: handle output id x y vx vy la: 31.0585,6.88736,0.0435905,-0.105835
+18:54:48 987(10611)D/perception:auto_track: handle output id x y vx vy: 31.0936,6.74845,0.035059,-0.138905
+18:54:49 138(10611)D/perception:auto_track: handle output id x y vx vy la: 31.1435,6.63987,0.035059,-0.138905
+18:54:49 293(10611)D/perception:auto_track: handle output id x y vx vy: 31.2201,6.54008,0.0765991,-0.0997891
+18:54:49 437(10611)D/perception:auto_track: handle output id x y vx vy la: 31.2874,6.38715,0.0765991,-0.0997891
+18:54:49 594(10611)D/perception:auto_track: handle output id x y vx vy: 31.3511,6.18014,0.0637207,-0.207006
+18:54:49 757(10611)D/perception:auto_track: handle output id x y vx vy la: 31.3627,6.0752,0.0637207,-0.207006
+18:54:49 906(10611)D/perception:auto_track: handle output id x y vx vy: 31.3825,5.97865,0.0198116,-0.0965471
+18:54:50 051(10611)D/perception:auto_track: handle output id x y vx vy la: 31.4547,5.76992,0.0198116,-0.0965471
+18:54:50 211(10611)D/perception:auto_track: handle output id x y vx vy: 31.4626,5.64044,0.00784874,-0.129476
+18:54:50 368(10611)D/perception:auto_track: handle output id x y vx vy la: 31.4749,5.58011,0.00784874,-0.129476
+18:54:50 537(10611)D/perception:auto_track: handle output id x y vx vy: 31.5724,5.48693,0.0975513,-0.093183
+18:54:50 689(10611)D/perception:auto_track: handle output id x y vx vy la: 31.6488,5.32442,0.0975513,-0.093183
+18:54:50 845(10611)D/perception:auto_track: handle output id x y vx vy: 31.7352,5.1402,0.0863972,-0.184226
+18:54:50 989(10611)D/perception:auto_track: handle output id x y vx vy la: 31.7382,5.09081,0.0863972,-0.184226
+18:54:51 136(10611)D/perception:auto_track: handle output id x y vx vy: 31.833,4.96987,0.0948277,-0.120935
+18:54:51 290(10611)D/perception:auto_track: handle output id x y vx vy la: 31.8818,4.86329,0.0948277,-0.120935
+18:54:51 461(10611)D/perception:auto_track: handle output id x y vx vy: 31.9818,4.72279,0.100094,-0.140502
+18:54:51 629(10611)D/perception:auto_track: handle output id x y vx vy la: 32.0237,4.5896,0.100094,-0.140502
+18:54:51 784(10611)D/perception:auto_track: handle output id x y vx vy: 32.0631,4.49406,0.0394058,-0.0955443
+18:54:51 940(10611)D/perception:auto_track: handle output id x y vx vy la: 32.119,4.30795,0.0394058,-0.0955443
+18:54:52 098(10611)D/perception:auto_track: handle output id x y vx vy: 32.1873,4.12101,0.0682259,-0.186935
+18:54:52 255(10611)D/perception:auto_track: handle output id x y vx vy la: 32.2256,4.02138,0.0682259,-0.186935
+18:54:52 393(10611)D/perception:auto_track: handle output id x y vx vy: 32.2466,3.93959,0.0209389,-0.081789
+18:54:52 558(10611)D/perception:auto_track: handle output id x y vx vy la: 32.311,3.79277,0.0209389,-0.081789
+18:54:52 722(10611)D/perception:auto_track: handle output id x y vx vy: 32.3481,3.69288,0.0370331,-0.0998821
+18:54:52 870(10611)D/perception:auto_track: handle output id x y vx vy la: 32.3521,3.5619,0.0370331,-0.0998821
+18:54:53 015(10611)D/perception:auto_track: handle output id x y vx vy: 32.394,3.49902,0.0418549,-0.0628774
+18:54:53 173(10611)D/perception:auto_track: handle output id x y vx vy la: 32.3969,3.36879,0.0418549,-0.0628774
+18:54:53 339(10611)D/perception:auto_track: handle output id x y vx vy: 32.4788,3.14906,0.0818634,-0.219728
+18:54:53 512(10611)D/perception:auto_track: handle output id x y vx vy la: 32.5358,3.05472,0.0818634,-0.219728
+18:54:53 677(10611)D/perception:auto_track: handle output id x y vx vy: 32.5364,2.99764,0.000606537,-0.0570798
+18:54:53 832(10611)D/perception:auto_track: handle output id x y vx vy la: 32.5958,2.87966,0.000606537,-0.0570798
+18:54:54 007(10611)D/perception:auto_track: handle output id x y vx vy: 32.6568,2.7206,0.0609169,-0.159056
+18:54:54 163(10611)D/perception:auto_track: handle output id x y vx vy la: 32.705,2.58083,0.0609169,-0.159056
+18:54:54 318(10611)D/perception:auto_track: handle output id x y vx vy: 32.7485,2.5057,0.04356,-0.0751252
+18:54:54 495(10611)D/perception:auto_track: handle output id x y vx vy la: 32.8087,2.43673,0.04356,-0.0751252
+18:54:54 654(10611)D/perception:auto_track: handle output id x y vx vy: 32.8394,2.32923,0.0307121,-0.107499
+18:54:54 807(10611)D/perception:auto_track: handle output id x y vx vy la: 32.9564,2.15139,0.0307121,-0.107499
+18:54:54 964(10611)D/perception:auto_track: handle output id x y vx vy: 32.9843,2.0235,0.0278473,-0.127887
+18:54:55 115(10611)D/perception:auto_track: handle output id x y vx vy la: 33.0163,1.98205,0.0278473,-0.127887
+18:54:55 281(10611)D/perception:auto_track: handle output id x y vx vy: 33.0763,1.79643,0.0600166,-0.185621
+18:54:55 460(10611)D/perception:auto_track: handle output id x y vx vy la: 33.1391,1.60859,0.0600166,-0.185621
+18:54:55 619(10611)D/perception:auto_track: handle output id x y vx vy: 33.1779,1.52275,0.0388184,-0.085845
+18:54:55 777(10611)D/perception:auto_track: handle output id x y vx vy la: 33.2186,1.43434,0.0388184,-0.085845
+18:54:55 911(10611)D/perception:auto_track: handle output id x y vx vy: 33.2794,1.31911,0.060791,-0.11523
+18:54:56 051(10611)D/perception:auto_track: handle output id x y vx vy la: 33.3659,1.13928,0.060791,-0.11523
+18:54:56 202(10611)D/perception:auto_track: handle output id x y vx vy: 33.3815,1.04165,0.0155373,-0.0976288
+18:54:56 364(10611)D/perception:auto_track: handle output id x y vx vy la: 33.3971,0.948983,0.0155373,-0.0976288
+18:54:56 515(10611)D/perception:auto_track: handle output id x y vx vy: 33.437,0.760336,0.0399017,-0.188646
+18:54:56 660(10611)D/perception:auto_track: handle output id x y vx vy la: 33.491,0.534631,0.0399017,-0.188646
+18:54:56 814(10611)D/perception:auto_track: handle output id x y vx vy: 33.5219,0.494742,0.0308762,-0.0398893
+18:54:56 974(10611)D/perception:auto_track: handle output id x y vx vy la: 33.5463,0.429421,0.0308762,-0.0398893
+18:54:57 125(10611)D/perception:auto_track: handle output id x y vx vy: 33.5977,0.328968,0.051403,-0.100454
+18:54:57 282(10611)D/perception:auto_track: handle output id x y vx vy la: 33.6683,0.183237,0.051403,-0.100454
+18:54:57 434(10611)D/perception:auto_track: handle output id x y vx vy: 33.7521,0.0229976,0.0838318,-0.160239
+18:54:57 602(10611)D/perception:auto_track: handle output id x y vx vy la: 33.8447,-0.0108762,0.0838318,-0.160239
+18:54:57 757(10611)D/perception:auto_track: handle output id x y vx vy: 33.8613,-0.117033,0.0166206,-0.106157
+18:54:57 904(10611)D/perception:auto_track: handle output id x y vx vy la: 33.9256,-0.33064,0.0166206,-0.106157
+18:54:58 065(10611)D/perception:auto_track: handle output id x y vx vy: 34.0012,-0.44865,0.0755806,-0.11801
+18:54:58 209(10611)D/perception:auto_track: handle output id x y vx vy la: 34.0823,-0.560441,0.0755806,-0.11801
+18:54:58 376(10611)D/perception:auto_track: handle output id x y vx vy: 34.1118,-0.643619,0.0295067,-0.0831778
+18:54:58 535(10611)D/perception:auto_track: handle output id x y vx vy la: 34.1837,-0.78304,0.0295067,-0.0831778
+18:54:58 687(10611)D/perception:auto_track: handle output id x y vx vy: 34.2641,-0.969664,0.0804634,-0.186624
+18:54:58 864(10611)D/perception:auto_track: handle output id x y vx vy la: 34.3008,-1.0549,0.0804634,-0.186624
+18:54:59 004(10611)D/perception:auto_track: handle output id x y vx vy: 34.3406,-1.13902,0.0398254,-0.0841179
+18:54:59 149(10611)D/perception:auto_track: handle output id x y vx vy la: 34.3748,-1.42162,0.0398254,-0.0841179
+18:54:59 317(10611)D/perception:auto_track: handle output id x y vx vy: 34.32,-1.40123,-0.0547829,0.0203906
+18:54:59 484(10611)D/perception:auto_track: handle output id x y vx vy la: 34.2896,-1.47219,-0.0547829,0.0203906
+18:54:59 652(10611)D/perception:auto_track: handle output id x y vx vy: 34.3785,-1.77741,0.088829,-0.305218
+18:54:59 818(10611)D/perception:auto_track: handle output id x y vx vy la: 34.4178,-1.94116,0.088829,-0.305218
+18:55:00 004(10611)D/perception:auto_track: handle output id x y vx vy: 34.4023,-2.11834,-0.0154495,-0.177177
+18:55:00 171(10611)D/perception:auto_track: handle output id x y vx vy la: 34.39,-2.16087,-0.0154495,-0.177177
+18:55:00 334(10611)D/perception:auto_track: handle output id x y vx vy: 34.4475,-2.33866,0.0575256,-0.177794
+18:55:00 487(10611)D/perception:auto_track: handle output id x y vx vy la: 34.3559,-2.38446,0.0575256,-0.177794
+18:55:00 654(10611)D/perception:auto_track: handle output id x y vx vy: 34.5829,-2.57096,0.226967,-0.186493
+18:55:00 826(10611)D/perception:auto_track: handle output id x y vx vy la: 34.6812,-2.6596,0.226967,-0.186493
+18:55:01 007(10611)D/perception:auto_track: handle output id x y vx vy: 34.7099,-2.83524,0.0287132,-0.175639
+18:55:01 154(10611)D/perception:auto_track: handle output id x y vx vy la: 34.7811,-3.02391,0.0287132,-0.175639
+18:55:01 311(10611)D/perception:auto_track: handle output id x y vx vy: 34.8002,-3.08991,0.0190659,-0.0660007
+18:55:01 466(10611)D/perception:auto_track: handle output id x y vx vy la: 34.8495,-3.26576,0.0190659,-0.0660007
+18:55:01 629(10611)D/perception:auto_track: handle output id x y vx vy: 34.8717,-3.4019,0.0222359,-0.136145
+18:55:01 799(10611)D/perception:auto_track: handle output id x y vx vy la: 34.9012,-3.51632,0.0222359,-0.136145
+18:55:01 968(10611)D/perception:auto_track: handle output id x y vx vy: 34.8819,-3.63261,-0.0192337,-0.116294
+18:55:02 135(10611)D/perception:auto_track: handle output id x y vx vy la: 34.847,-3.76631,-0.0192337,-0.116294
+18:55:02 299(10611)D/perception:auto_track: handle output id x y vx vy: 34.847,-3.76631,0,0
+18:55:02 445(10611)D/perception:auto_track: handle output id x y vx vy la: 34.847,-3.76631,0,0
+18:55:02 600(10611)D/perception:auto_track: handle output id x y vx vy: 34.6998,-3.98683,-0.147202,-0.220524
+18:55:02 753(10611)D/perception:auto_track: handle output id x y vx vy la: 34.5148,-4.23909,-0.147202,-0.220524
+18:55:02 927(10611)D/perception:auto_track: handle output id x y vx vy: 34.429,-4.39331,-0.0858955,-0.154218
+18:55:03 088(10611)D/perception:auto_track: handle output id x y vx vy la: 34.3723,-4.43067,-0.0858955,-0.154218
+18:55:03 252(10611)D/perception:auto_track: handle output id x y vx vy: 34.221,-4.54956,-0.15123,-0.118888
+18:55:03 408(10611)D/perception:auto_track: handle output id x y vx vy la: 34.1501,-4.95018,-0.15123,-0.118888
+18:55:03 561(10611)D/perception:auto_track: handle output id x y vx vy: 34.1821,-4.68515,0.032032,0.265023
+18:55:03 710(10611)D/perception:auto_track: handle output id x y vx vy la: 33.8839,-4.74946,0.032032,0.265023
+18:55:03 881(10611)D/perception:auto_track: handle output id x y vx vy: 33.7167,-4.75595,-0.167244,-0.00649357
+18:55:04 043(10611)D/perception:auto_track: handle output id x y vx vy la: 33.5008,-4.75771,-0.167244,-0.00649357
+18:55:04 187(10611)D/perception:auto_track: handle output id x y vx vy: 33.3029,-4.86031,-0.197968,-0.102602
+18:55:04 333(10611)D/perception:auto_track: handle output id x y vx vy la: 33.2699,-4.90377,-0.197968,-0.102602
+18:55:04 487(10611)D/perception:auto_track: handle output id x y vx vy: 33.1373,-5.05759,-0.132614,-0.153816
+18:55:04 625(10611)D/perception:auto_track: handle output id x y vx vy la: 32.9968,-5.1176,-0.132614,-0.153816
+18:55:04 772(10611)D/perception:auto_track: handle output id x y vx vy: 32.8917,-5.22298,-0.105072,-0.105379
+18:55:04 927(10611)D/perception:auto_track: handle output id x y vx vy la: 32.7451,-5.24745,-0.105072,-0.105379
+18:55:05 097(10611)D/perception:auto_track: handle output id x y vx vy: 32.6114,-5.38312,-0.133724,-0.135666
+18:55:05 255(10611)D/perception:auto_track: handle output id x y vx vy la: 32.5044,-5.52213,-0.133724,-0.135666
+18:55:05 416(10611)D/perception:auto_track: handle output id x y vx vy: 32.4369,-5.65253,-0.0675697,-0.130405
+18:55:05 577(10611)D/perception:auto_track: handle output id x y vx vy la: 32.3094,-5.69971,-0.0675697,-0.130405
+18:55:05 734(10611)D/perception:auto_track: handle output id x y vx vy: 32.1543,-5.79259,-0.155117,-0.0928817
+18:55:05 880(10611)D/perception:auto_track: handle output id x y vx vy la: 32.1837,-5.89229,-0.155117,-0.0928817
+18:55:06 026(10611)D/perception:auto_track: handle output id x y vx vy: 32.076,-5.91934,-0.107719,-0.0270538
+18:55:06 193(10611)D/perception:auto_track: handle output id x y vx vy la: 31.8262,-5.86991,-0.107719,-0.0270538
+18:55:06 363(10611)D/perception:auto_track: handle output id x y vx vy: 31.6373,-5.95013,-0.188913,-0.0802164
+18:55:06 504(10611)D/perception:auto_track: handle output id x y vx vy la: 31.4625,-6.05678,-0.188913,-0.0802164
+18:55:06 669(10611)D/perception:auto_track: handle output id x y vx vy: 31.4138,-6.04585,-0.0486908,0.0109305
+18:55:06 828(10611)D/perception:auto_track: handle output id x y vx vy la: 31.2805,-6.08253,-0.0486908,0.0109305
+18:55:06 994(10611)D/perception:auto_track: handle output id x y vx vy: 31.158,-6.18835,-0.122536,-0.105815
+18:55:07 137(10611)D/perception:auto_track: handle output id x y vx vy la: 30.9704,-6.25776,-0.122536,-0.105815
+18:55:07 295(10611)D/perception:auto_track: handle output id x y vx vy: 30.8751,-6.30537,-0.0952682,-0.0476146
+18:55:07 455(10611)D/perception:auto_track: handle output id x y vx vy la: 30.7089,-6.35246,-0.0952682,-0.0476146
+18:55:07 611(10611)D/perception:auto_track: handle output id x y vx vy: 30.499,-6.41091,-0.209896,-0.0584478
+18:55:07 751(10611)D/perception:auto_track: handle output id x y vx vy la: 30.4209,-6.48708,-0.209896,-0.0584478
+18:55:07 916(10611)D/perception:auto_track: handle output id x y vx vy: 30.3283,-6.53134,-0.0925922,-0.0442629
+18:55:08 067(10611)D/perception:auto_track: handle output id x y vx vy la: 30.1486,-6.60602,-0.0925922,-0.0442629
+18:55:08 217(10611)D/perception:auto_track: handle output id x y vx vy: 29.9784,-6.64029,-0.170189,-0.0342731
+18:55:08 358(10611)D/perception:auto_track: handle output id x y vx vy la: 29.9298,-6.66646,-0.170189,-0.0342731
+18:55:08 511(10611)D/perception:auto_track: handle output id x y vx vy: 29.8577,-6.73548,-0.0720749,-0.0690141
+18:55:08 670(10611)D/perception:auto_track: handle output id x y vx vy la: 29.6186,-6.84304,-0.0720749,-0.0690141
+18:55:08 831(10611)D/perception:auto_track: handle output id x y vx vy: 29.5367,-6.89168,-0.0818996,-0.0486383
+18:55:08 984(10611)D/perception:auto_track: handle output id x y vx vy la: 29.4332,-6.92884,-0.0818996,-0.0486383
+18:55:09 141(10611)D/perception:auto_track: handle output id x y vx vy: 29.3529,-7.00308,-0.0802784,-0.0742435
+18:55:09 301(10611)D/perception:auto_track: handle output id x y vx vy la: 29.1991,-7.09247,-0.0802784,-0.0742435
+18:55:09 466(10611)D/perception:auto_track: handle output id x y vx vy: 29.0378,-7.25377,-0.161362,-0.161296
+18:55:09 617(10611)D/perception:auto_track: handle output id x y vx vy la: 28.923,-7.34699,-0.161362,-0.161296
+18:55:09 764(10611)D/perception:auto_track: handle output id x y vx vy: 28.8415,-7.41179,-0.0814953,-0.0648022
+18:55:09 923(10611)D/perception:auto_track: handle output id x y vx vy la: 28.6894,-7.61255,-0.0814953,-0.0648022
+18:55:10 097(10611)D/perception:auto_track: handle output id x y vx vy: 28.5003,-7.72531,-0.189121,-0.112753
+18:55:10 258(10611)D/perception:auto_track: handle output id x y vx vy la: 28.3908,-7.79945,-0.189121,-0.112753
+18:55:10 406(10611)D/perception:auto_track: handle output id x y vx vy: 28.2749,-7.85928,-0.115803,-0.0598259
+18:55:10 564(10611)D/perception:auto_track: handle output id x y vx vy la: 28.1332,-8.00243,-0.115803,-0.0598259
+18:55:10 730(10611)D/perception:auto_track: handle output id x y vx vy: 27.9711,-8.08949,-0.1621,-0.0870619
+18:55:10 870(10611)D/perception:auto_track: handle output id x y vx vy la: 27.8441,-8.17949,-0.1621,-0.0870619
+18:55:11 048(10611)D/perception:auto_track: handle output id x y vx vy: 27.5902,-8.28698,-0.253963,-0.107485
+18:55:11 196(10611)D/perception:auto_track: handle output id x y vx vy la: 27.4739,-8.36903,-0.253963,-0.107485
+18:55:11 343(10611)D/perception:auto_track: handle output id x y vx vy: 27.3625,-8.43723,-0.111422,-0.0681992
+18:55:11 491(10611)D/perception:auto_track: handle output id x y vx vy la: 27.2902,-8.50546,-0.111422,-0.0681992
+18:55:11 649(10611)D/perception:auto_track: handle output id x y vx vy: 27.2902,-7.8418,0,0.663666
+18:55:11 813(10611)D/perception:auto_track: handle output id x y vx vy la: 27.2902,-8.23221,0,0.663666
+18:55:11 965(10611)D/perception:auto_track: handle output id x y vx vy: 27.2902,-8.23221,0,0
+18:55:12 119(10611)D/perception:auto_track: handle output id x y vx vy la: 27.0485,-8.74956,0,0
+18:55:12 275(10611)D/perception:auto_track: handle output id x y vx vy: 26.834,-8.82907,-0.214447,-0.0795107
+18:55:12 438(10611)D/perception:auto_track: handle output id x y vx vy la: 26.6699,-8.89869,-0.214447,-0.0795107
+18:55:12 592(10611)D/perception:auto_track: handle output id x y vx vy: 26.4054,-8.86575,-0.264498,0.0329437
+18:55:12 769(10611)D/perception:auto_track: handle output id x y vx vy la: 26.2815,-8.9013,-0.264498,0.0329437
+18:55:12 936(10611)D/perception:auto_track: handle output id x y vx vy: 26.1485,-8.98144,-0.132994,-0.0801334
+18:55:13 077(10611)D/perception:auto_track: handle output id x y vx vy la: 26.0287,-9.02203,-0.132994,-0.0801334
+18:55:13 213(10611)D/perception:auto_track: handle output id x y vx vy: 26.0063,-9.08953,-0.0223999,-0.0675011
+18:55:13 376(10611)D/perception:auto_track: handle output id x y vx vy la: 25.9279,-9.07153,-0.0223999,-0.0675011
+18:55:13 547(10611)D/perception:auto_track: handle output id x y vx vy: 25.7999,-9.08243,-0.127995,-0.0109062
+18:55:13 706(10611)D/perception:auto_track: handle output id x y vx vy la: 25.6955,-9.163,-0.127995,-0.0109062
+18:55:13 873(10611)D/perception:auto_track: handle output id x y vx vy: 25.5749,-9.19549,-0.120617,-0.0324917
+18:55:14 035(10611)D/perception:auto_track: handle output id x y vx vy la: 25.5738,-9.17876,-0.120617,-0.0324917
+18:55:14 205(10611)D/perception:auto_track: handle output id x y vx vy: 25.503,-9.24851,-0.070879,-0.0697546
+18:55:14 355(10611)D/perception:auto_track: handle output id x y vx vy la: 25.3565,-9.18018,-0.070879,-0.0697546
+18:55:14 533(10611)D/perception:auto_track: handle output id x y vx vy: 25.2743,-9.38493,-0.0822296,-0.204745
+18:55:14 710(10611)D/perception:auto_track: handle output id x y vx vy la: 25.2423,-9.4405,-0.0822296,-0.204745
+18:55:14 872(10611)D/perception:auto_track: handle output id x y vx vy: 25.2061,-9.47923,-0.0362339,-0.0387316
+18:55:15 034(10611)D/perception:auto_track: handle output id x y vx vy la: 25.1695,-9.4325,-0.0362339,-0.0387316
+18:55:15 197(10611)D/perception:auto_track: handle output id x y vx vy: 25.0909,-9.55856,-0.0785942,-0.126061
+18:55:15 342(10611)D/perception:auto_track: handle output id x y vx vy la: 24.9409,-9.69416,-0.0785942,-0.126061
+18:55:15 501(10611)D/perception:auto_track: handle output id x y vx vy: 24.9266,-9.72221,-0.0142365,-0.0280552
+18:55:15 654(10611)D/perception:auto_track: handle output id x y vx vy la: 24.9057,-9.77609,-0.0142365,-0.0280552
+18:55:15 824(10611)D/perception:auto_track: handle output id x y vx vy: 24.851,-9.79999,-0.0547066,-0.0239029
+18:55:15 967(10611)D/perception:auto_track: handle output id x y vx vy la: 24.7963,-9.86082,-0.0547066,-0.0239029
+18:55:16 136(10611)D/perception:auto_track: handle output id x y vx vy: 24.6617,-9.87307,-0.134636,-0.0122519
+18:55:16 315(10611)D/perception:auto_track: handle output id x y vx vy la: 24.6287,-9.82888,-0.134636,-0.0122519
+18:55:16 491(10611)D/perception:auto_track: handle output id x y vx vy: 24.571,-9.82419,-0.0577621,0.00469494
+18:55:16 645(10611)D/perception:auto_track: handle output id x y vx vy la: 24.5591,-9.78293,-0.0577621,0.00469494
+18:55:16 810(10611)D/perception:auto_track: handle output id x y vx vy: 24.4809,-9.73612,-0.0782833,0.0468092
+18:55:16 962(10611)D/perception:auto_track: handle output id x y vx vy la: 24.3694,-9.72636,-0.0782833,0.0468092
+18:55:17 145(10611)D/perception:auto_track: handle output id x y vx vy: 24.2182,-9.66315,-0.151163,0.0632133
+18:55:17 310(10611)D/perception:auto_track: handle output id x y vx vy la: 24.2187,-9.66047,-0.151163,0.0632133
+18:55:17 498(10611)D/perception:auto_track: handle output id x y vx vy: 24.1961,-9.62294,-0.0225945,0.0375319
+18:55:17 677(10611)D/perception:auto_track: handle output id x y vx vy la: 24.1369,-9.53544,-0.0225945,0.0375319
+18:55:17 837(10611)D/perception:auto_track: handle output id x y vx vy: 24.1267,-9.51922,-0.0101891,0.0162172
+18:55:18 007(10611)D/perception:auto_track: handle output id x y vx vy la: 24.1388,-9.48655,-0.0101891,0.0162172
+18:55:18 197(10611)D/perception:auto_track: handle output id x y vx vy: 24.1486,-9.53068,0.00985718,-0.0441246
+18:55:18 378(10611)D/perception:auto_track: handle output id x y vx vy la: 24.1709,-9.56539,0.00985718,-0.0441246
+18:55:18 577(10611)D/perception:auto_track: handle output id x y vx vy: 24.1455,-9.72375,-0.0254879,-0.158364
+18:55:18 737(10611)D/perception:auto_track: handle output id x y vx vy la: 24.1783,-9.70947,-0.0254879,-0.158364
+18:55:18 895(10611)D/perception:auto_track: handle output id x y vx vy: 24.132,-9.76191,-0.0462856,-0.0524464
+18:55:19 059(10611)D/perception:auto_track: handle output id x y vx vy la: 24.1496,-9.78263,-0.0462856,-0.0524464
+18:55:19 210(10611)D/perception:auto_track: handle output id x y vx vy: 24.1353,-9.78649,-0.0143223,-0.00385571
+18:55:19 362(10611)D/perception:auto_track: handle output id x y vx vy la: 24.1398,-9.81806,-0.0143223,-0.00385571
+18:55:19 533(10611)D/perception:auto_track: handle output id x y vx vy: 24.1204,-9.87518,-0.0194702,-0.0571156
+18:55:19 692(10611)D/perception:auto_track: handle output id x y vx vy la: 24.064,-9.92524,-0.0194702,-0.0571156
+18:55:19 845(10611)D/perception:auto_track: handle output id x y vx vy: 24.0444,-9.95382,-0.0196362,-0.0285769
+18:55:19 983(10611)D/perception:auto_track: handle output id x y vx vy la: 23.963,-10.1589,-0.0196362,-0.0285769
+18:55:20 138(10611)D/perception:auto_track: handle output id x y vx vy: 23.8795,-10.1021,-0.0835457,0.0568113
+18:55:20 288(10611)D/perception:auto_track: handle output id x y vx vy la: 23.7734,-10.1811,-0.0835457,0.0568113
+18:55:20 463(10611)D/perception:auto_track: handle output id x y vx vy: 23.7456,-10.1874,-0.0277939,-0.00630951
+18:55:20 616(10611)D/perception:auto_track: handle output id x y vx vy la: 23.6336,-10.2688,-0.0277939,-0.00630951
+18:55:20 802(10611)D/perception:auto_track: handle output id x y vx vy: 23.4124,-10.3425,-0.221266,-0.07376
+18:55:20 955(10611)D/perception:auto_track: handle output id x y vx vy la: 23.2918,-10.4004,-0.221266,-0.07376
+18:55:21 112(10611)D/perception:auto_track: handle output id x y vx vy: 23.2427,-10.3977,-0.049078,0.00276089
+18:55:21 269(10611)D/perception:auto_track: handle output id x y vx vy la: 23.1419,-10.4318,-0.049078,0.00276089
+18:55:21 425(10611)D/perception:auto_track: handle output id x y vx vy: 22.9211,-10.4723,-0.220861,-0.0404816
+18:55:21 599(10611)D/perception:auto_track: handle output id x y vx vy la: 22.7077,-10.513,-0.220861,-0.0404816
+18:55:21 768(10611)D/perception:auto_track: handle output id x y vx vy: 22.6754,-10.5519,-0.0322857,-0.038928
+18:55:21 936(10611)D/perception:auto_track: handle output id x y vx vy la: 22.522,-10.578,-0.0322857,-0.038928
+18:55:22 111(10611)D/perception:auto_track: handle output id x y vx vy: 22.3719,-10.5909,-0.150084,-0.0128069
+18:55:22 266(10611)D/perception:auto_track: handle output id x y vx vy la: 22.2514,-10.5203,-0.150084,-0.0128069
+18:55:22 426(10611)D/perception:auto_track: handle output id x y vx vy: 22.2593,-10.5269,0.00790596,-0.00656319
+18:55:22 593(10611)D/perception:auto_track: handle output id x y vx vy la: 22.0145,-10.5527,0.00790596,-0.00656319
+18:55:22 758(10611)D/perception:auto_track: handle output id x y vx vy: 21.809,-10.6115,-0.205477,-0.0588436
+18:55:22 910(10611)D/perception:auto_track: handle output id x y vx vy la: 21.6183,-10.6849,-0.205477,-0.0588436
+18:55:23 058(10611)D/perception:auto_track: handle output id x y vx vy: 21.6102,-10.6909,-0.00812912,-0.00605869
+18:55:23 211(10611)D/perception:auto_track: handle output id x y vx vy la: 21.5194,-10.7121,-0.00812912,-0.00605869
+18:55:23 372(10611)D/perception:auto_track: handle output id x y vx vy: 21.4345,-10.786,-0.0848808,-0.0738468
+18:55:23 534(10611)D/perception:auto_track: handle output id x y vx vy la: 21.2596,-10.8691,-0.0848808,-0.0738468
+18:55:23 714(10611)D/perception:auto_track: handle output id x y vx vy: 21.1305,-10.8982,-0.129038,-0.029109
+18:55:23 868(10611)D/perception:auto_track: handle output id x y vx vy la: 21.0643,-10.9513,-0.129038,-0.029109
+18:55:24 020(10611)D/perception:auto_track: handle output id x y vx vy: 21.0126,-10.9706,-0.0517826,-0.0193367
+18:55:24 181(10611)D/perception:auto_track: handle output id x y vx vy la: 20.8156,-11.0357,-0.0517826,-0.0193367
+18:55:24 352(10611)D/perception:auto_track: handle output id x y vx vy: 20.6733,-11.1434,-0.142347,-0.107735
+18:55:24 507(10611)D/perception:auto_track: handle output id x y vx vy la: 20.6052,-11.1845,-0.142347,-0.107735
+18:55:24 646(10611)D/perception:auto_track: handle output id x y vx vy: 20.5179,-11.2466,-0.0872765,-0.062067
+18:55:24 792(10611)D/perception:auto_track: handle output id x y vx vy la: 20.3405,-11.3308,-0.0872765,-0.062067
+18:55:24 973(10611)D/perception:auto_track: handle output id x y vx vy: 20.2286,-11.374,-0.111921,-0.043128
+18:55:25 123(10611)D/perception:auto_track: handle output id x y vx vy la: 20.1639,-11.4284,-0.111921,-0.043128
+18:55:25 301(10611)D/perception:auto_track: handle output id x y vx vy: 20.0932,-11.4861,-0.070694,-0.0577221
+18:55:25 446(10611)D/perception:auto_track: handle output id x y vx vy la: 19.9288,-11.5476,-0.070694,-0.0577221
+18:55:25 606(10611)D/perception:auto_track: handle output id x y vx vy: 19.7975,-11.5946,-0.131296,-0.0469465
+18:55:25 757(10611)D/perception:auto_track: handle output id x y vx vy la: 19.6616,-11.6401,-0.131296,-0.0469465
+18:55:25 905(10611)D/perception:auto_track: handle output id x y vx vy: 19.5946,-11.673,-0.0669537,-0.0329447
+18:55:26 082(10611)D/perception:auto_track: handle output id x y vx vy la: 19.4648,-11.7503,-0.0669537,-0.0329447
+18:55:26 240(10611)D/perception:auto_track: handle output id x y vx vy: 19.3245,-11.81,-0.140347,-0.0596628
+18:55:26 392(10611)D/perception:auto_track: handle output id x y vx vy la: 19.23,-11.873,-0.140347,-0.0596628
+18:55:26 572(10611)D/perception:auto_track: handle output id x y vx vy: 19.1322,-11.9442,-0.0977306,-0.0711927
+18:55:26 722(10611)D/perception:auto_track: handle output id x y vx vy la: 19.0313,-11.9942,-0.0977306,-0.0711927
+18:55:26 876(10611)D/perception:auto_track: handle output id x y vx vy: 18.8987,-12.0899,-0.132559,-0.0956812
+18:55:27 046(10611)D/perception:auto_track: handle output id x y vx vy la: 18.8225,-12.0572,-0.132559,-0.0956812
+18:55:27 206(10611)D/perception:auto_track: handle output id x y vx vy: 18.7439,-12.1019,-0.0786057,-0.0446892
+18:55:27 378(10611)D/perception:auto_track: handle output id x y vx vy la: 18.6348,-12.1313,-0.0786057,-0.0446892
+18:55:27 540(10611)D/perception:auto_track: handle output id x y vx vy: 18.4092,-12.129,-0.22558,0.00231934
+18:55:27 684(10611)D/perception:auto_track: handle output id x y vx vy la: 18.2648,-12.205,-0.22558,0.00231934
+18:55:27 848(10611)D/perception:auto_track: handle output id x y vx vy: 18.2417,-12.3389,-0.023056,-0.133844
+18:55:27 990(10611)D/perception:auto_track: handle output id x y vx vy la: 18.1169,-12.436,-0.023056,-0.133844
+18:55:28 150(10611)D/perception:auto_track: handle output id x y vx vy: 17.8777,-12.5325,-0.239187,-0.096509
+18:55:28 328(10611)D/perception:auto_track: handle output id x y vx vy la: 17.7625,-12.5077,-0.239187,-0.096509
+18:55:28 503(10611)D/perception:auto_track: handle output id x y vx vy: 17.6108,-12.5604,-0.151743,-0.0526829
+18:55:28 670(10611)D/perception:auto_track: handle output id x y vx vy la: 17.3831,-12.6428,-0.151743,-0.0526829
+18:55:28 833(10611)D/perception:auto_track: handle output id x y vx vy: 17.2579,-12.7489,-0.125202,-0.106101
+18:55:28 989(10611)D/perception:auto_track: handle output id x y vx vy la: 17.1728,-12.6905,-0.125202,-0.106101
+18:55:29 152(10611)D/perception:auto_track: handle output id x y vx vy: 17.0691,-12.7652,-0.103662,-0.0747242
+18:55:29 300(10611)D/perception:auto_track: handle output id x y vx vy la: 16.8289,-12.7619,-0.103662,-0.0747242
+18:55:29 451(10611)D/perception:auto_track: handle output id x y vx vy: 16.752,-12.8172,-0.0769424,-0.055295
+18:55:29 590(10611)D/perception:auto_track: handle output id x y vx vy la: 16.6749,-12.833,-0.0769424,-0.055295
+18:55:29 760(10611)D/perception:auto_track: handle output id x y vx vy: 16.5095,-12.9384,-0.165472,-0.105424
+18:55:29 912(10611)D/perception:auto_track: handle output id x y vx vy la: 16.353,-13.0086,-0.165472,-0.105424
+18:55:30 077(10611)D/perception:auto_track: handle output id x y vx vy: 16.2925,-13.0628,-0.0605011,-0.0541496
+18:55:30 232(10611)D/perception:auto_track: handle output id x y vx vy la: 16.1949,-13.1247,-0.0605011,-0.0541496
+18:55:30 380(10611)D/perception:auto_track: handle output id x y vx vy: 16.0889,-13.1572,-0.106009,-0.0325279
+18:55:30 539(10611)D/perception:auto_track: handle output id x y vx vy la: 15.9423,-13.2264,-0.106009,-0.0325279
+18:55:30 694(10611)D/perception:auto_track: handle output id x y vx vy: 15.8957,-13.2707,-0.0465488,-0.0442715
+18:55:30 852(10611)D/perception:auto_track: handle output id x y vx vy la: 15.7387,-13.3351,-0.0465488,-0.0442715
+18:55:31 019(10611)D/perception:auto_track: handle output id x y vx vy: 15.6252,-13.4285,-0.113491,-0.0934162
+18:55:31 177(10611)D/perception:auto_track: handle output id x y vx vy la: 15.5713,-13.5028,-0.113491,-0.0934162
+18:55:31 350(10611)D/perception:auto_track: handle output id x y vx vy: 15.5571,-13.5531,-0.0142565,-0.0502768
+18:55:31 535(10611)D/perception:auto_track: handle output id x y vx vy la: 15.4027,-13.6554,-0.0142565,-0.0502768
+18:55:31 710(10611)D/perception:auto_track: handle output id x y vx vy: 15.3119,-13.7423,-0.090765,-0.0869217
+18:55:31 862(10611)D/perception:auto_track: handle output id x y vx vy la: 15.2546,-13.7903,-0.090765,-0.0869217
+18:55:32 037(10611)D/perception:auto_track: handle output id x y vx vy: 15.1968,-13.8455,-0.0577803,-0.0552721
+18:55:32 195(10611)D/perception:auto_track: handle output id x y vx vy la: 15.0929,-13.8666,-0.0577803,-0.0552721
+18:55:32 352(10611)D/perception:auto_track: handle output id x y vx vy: 14.9395,-13.9408,-0.153326,-0.074172
+18:55:32 515(10611)D/perception:auto_track: handle output id x y vx vy la: 14.8167,-13.9767,-0.153326,-0.074172
+18:55:32 676(10611)D/perception:auto_track: handle output id x y vx vy: 14.7766,-13.9937,-0.04006,-0.0170488
+18:55:32 829(10611)D/perception:auto_track: handle output id x y vx vy la: 14.5338,-14.0554,-0.04006,-0.0170488
+18:55:32 996(10611)D/perception:auto_track: handle output id x y vx vy: 14.3593,-14.1028,-0.174438,-0.0474033
+18:55:33 150(10611)D/perception:auto_track: handle output id x y vx vy la: 14.2956,-14.127,-0.174438,-0.0474033
+18:55:33 305(10611)D/perception:auto_track: handle output id x y vx vy: 14.1689,-14.1795,-0.126744,-0.0525484
+18:55:33 458(10611)D/perception:auto_track: handle output id x y vx vy la: 13.9296,-14.2601,-0.126744,-0.0525484
+18:55:33 617(10611)D/perception:auto_track: handle output id x y vx vy: 13.822,-14.3733,-0.107598,-0.113238
+18:55:33 776(10611)D/perception:auto_track: handle output id x y vx vy la: 13.728,-14.3918,-0.107598,-0.113238
+18:55:33 946(10611)D/perception:auto_track: handle output id x y vx vy: 13.4956,-14.4928,-0.232409,-0.101002
+18:55:34 110(10611)D/perception:auto_track: handle output id x y vx vy la: 13.3281,-14.5745,-0.232409,-0.101002
+18:55:34 279(10611)D/perception:auto_track: handle output id x y vx vy: 13.1723,-14.6084,-0.155805,-0.0338488
+18:55:34 457(10611)D/perception:auto_track: handle output id x y vx vy la: 13.0182,-14.7091,-0.155805,-0.0338488
+18:55:34 616(10611)D/perception:auto_track: handle output id x y vx vy: 12.8357,-14.7267,-0.182453,-0.0176668
+18:55:34 775(10611)D/perception:auto_track: handle output id x y vx vy la: 12.5914,-14.7458,-0.182453,-0.0176668
+18:55:34 939(10611)D/perception:auto_track: handle output id x y vx vy: 12.4144,-14.798,-0.176957,-0.0522738
+18:55:35 107(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3052,-14.8537,-0.176957,-0.0522738
+18:55:35 272(10611)D/perception:auto_track: handle output id x y vx vy: 12.0702,-14.9091,-0.234995,-0.0554056
+18:55:35 442(10611)D/perception:auto_track: handle output id x y vx vy la: 11.897,-14.9303,-0.234995,-0.0554056
+18:55:35 617(10611)D/perception:auto_track: handle output id x y vx vy: 11.7405,-14.9472,-0.156449,-0.0168695
+18:55:35 778(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4827,-14.9784,-0.156449,-0.0168695
+18:55:35 949(10611)D/perception:auto_track: handle output id x y vx vy: 11.3902,-14.9925,-0.0924263,-0.0140886
+18:55:36 103(10611)D/perception:auto_track: handle output id x y vx vy la: 11.2265,-15.0017,-0.0924263,-0.0140886
+18:55:36 259(10611)D/perception:auto_track: handle output id x y vx vy: 11.0064,-15.0357,-0.220066,-0.0340118
+18:55:36 410(10611)D/perception:auto_track: handle output id x y vx vy la: 10.928,-15.0549,-0.220066,-0.0340118
+18:55:36 571(10611)D/perception:auto_track: handle output id x y vx vy: 10.8548,-15.0982,-0.0731964,-0.0433378
+18:55:36 732(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-15.0805,-0.0731964,-0.0433378
+18:55:36 900(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-14.8463,0,0.234223
+18:55:37 062(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-14.7058,0,0.234223
+18:55:37 259(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-14.5725,0,0.133285
+18:55:37 467(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-13.9009,0,0.133285
+18:55:37 627(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-14.2063,0,-0.305453
+18:55:37 780(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-14.2271,0,-0.305453
+18:55:37 938(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-14.0904,0,0.136769
+18:55:38 105(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-13.8137,0,0.136769
+18:55:38 278(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-13.943,0,-0.129313
+18:55:38 441(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-13.7776,0,-0.129313
+18:55:38 607(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-13.8919,0,-0.114355
+18:55:38 777(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-13.6405,0,-0.114355
+18:55:38 949(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-13.5261,0,0.114468
+18:55:39 118(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-13.5261,0,0.114468
+18:55:39 294(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-13.0967,0,0.429376
+18:55:39 467(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-13.0182,0,0.429376
+18:55:39 642(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-12.9075,0,0.110718
+18:55:39 806(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-12.4323,0,0.110718
+18:55:39 987(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-12.743,0,-0.310657
+18:55:40 163(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-12.7298,0,-0.310657
+18:55:40 315(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-12.6969,0,0.0329037
+18:55:40 486(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-12.7991,0,0.0329037
+18:55:40 662(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-12.7821,0,0.0170631
+18:55:40 870(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-12.8099,0,0.0170631
+18:55:41 049(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-12.9314,0,-0.121439
+18:55:41 218(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-13.0135,0,-0.121439
+18:55:41 404(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-13.2242,0,-0.21069
+18:55:41 580(10611)D/perception:auto_track: handle output id x y vx vy la: 10.7503,-13.221,0,-0.21069
+18:55:41 760(10611)D/perception:auto_track: handle output id x y vx vy: 10.7503,-13.2698,0,-0.0487785
+18:55:41 936(10611)D/perception:auto_track: handle output id x y vx vy la: 11.1147,-13.5494,0,-0.0487785
+18:55:42 085(10611)D/perception:auto_track: handle output id x y vx vy: 11.2847,-13.6277,0.169985,-0.0783272
+18:55:42 231(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4388,-13.6022,0.169985,-0.0783272
+18:55:42 379(10611)D/perception:auto_track: handle output id x y vx vy: 11.4388,-13.5999,0,0.00236797
+18:55:42 529(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4685,-13.9114,0,0.00236797
+18:55:42 688(10611)D/perception:auto_track: handle output id x y vx vy: 11.4669,-13.9407,-0.00154305,-0.029294
+18:55:42 842(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,-0.00154305,-0.029294
+18:55:42 924(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:43 023(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:43 111(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:43 199(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:43 282(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:43 376(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:43 460(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:43 544(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:43 633(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:43 716(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:43 804(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:43 894(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:43 991(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:44 084(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:44 178(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:44 263(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:44 345(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:44 428(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:44 512(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:44 597(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:44 680(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:44 770(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:44 857(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:44 941(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:45 028(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:45 124(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:45 220(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:45 306(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:45 397(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:45 485(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:45 576(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:45 664(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:45 750(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:45 840(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:45 935(10611)D/perception:auto_track: handle output id x y vx vy: 11.4262,-13.9667,0,0
+18:55:46 016(10611)D/perception:auto_track: handle output id x y vx vy la: 11.4262,-13.9667,0,0
+18:55:46 177(10611)D/perception:auto_track: handle output id x y vx vy: 11.7068,-13.7943,0.280581,0.172367
+18:55:46 317(10611)D/perception:auto_track: handle output id x y vx vy la: 11.9769,-13.7915,0.280581,0.172367
+18:55:46 453(10611)D/perception:auto_track: handle output id x y vx vy: 11.9869,-13.7053,0.0100021,0.0862188
+18:55:46 606(10611)D/perception:auto_track: handle output id x y vx vy la: 12.0489,-13.7476,0.0100021,0.0862188
+18:55:46 751(10611)D/perception:auto_track: handle output id x y vx vy: 12.0582,-13.7414,0.00924206,0.00620842
+18:55:46 909(10611)D/perception:auto_track: handle output id x y vx vy la: 12.0818,-13.6828,0.00924206,0.00620842
+18:55:47 068(10611)D/perception:auto_track: handle output id x y vx vy: 12.0748,-13.6301,-0.00697994,0.0526676
+18:55:47 234(10611)D/perception:auto_track: handle output id x y vx vy la: 12.0761,-13.4935,-0.00697994,0.0526676
+18:55:47 372(10611)D/perception:auto_track: handle output id x y vx vy: 12.0691,-13.4119,-0.00698662,0.0816088
+18:55:47 513(10611)D/perception:auto_track: handle output id x y vx vy la: 12.086,-13.3844,-0.00698662,0.0816088
+18:55:47 658(10611)D/perception:auto_track: handle output id x y vx vy: 12.1373,-13.3537,0.0512629,0.030673
+18:55:47 805(10611)D/perception:auto_track: handle output id x y vx vy la: 12.1728,-13.3468,0.0512629,0.030673
+18:55:47 955(10611)D/perception:auto_track: handle output id x y vx vy: 12.1943,-13.3294,0.0214872,0.0174446
+18:55:48 110(10611)D/perception:auto_track: handle output id x y vx vy la: 12.178,-13.283,0.0214872,0.0174446
+18:55:48 264(10611)D/perception:auto_track: handle output id x y vx vy: 12.178,-13.283,0,0
+18:55:48 391(10611)D/perception:auto_track: handle output id x y vx vy la: 12.1082,-13.2269,0,0
+18:55:48 539(10611)D/perception:auto_track: handle output id x y vx vy: 12.0708,-13.22,-0.0373697,0.00689602
+18:55:48 682(10611)D/perception:auto_track: handle output id x y vx vy la: 12.0116,-13.2462,-0.0373697,0.00689602
+18:55:48 833(10611)D/perception:auto_track: handle output id x y vx vy: 11.9686,-13.2647,-0.0430164,-0.0185328
+18:55:48 972(10611)D/perception:auto_track: handle output id x y vx vy la: 11.8777,-13.3051,-0.0430164,-0.0185328
+18:55:49 115(10611)D/perception:auto_track: handle output id x y vx vy: 11.916,-13.4011,0.0382547,-0.0959902
+18:55:49 269(10611)D/perception:auto_track: handle output id x y vx vy la: 11.7339,-13.483,0.0382547,-0.0959902
+18:55:49 421(10611)D/perception:auto_track: handle output id x y vx vy: 11.7202,-13.6708,-0.0137825,-0.187823
+18:55:49 576(10611)D/perception:auto_track: handle output id x y vx vy la: 11.7028,-13.7233,-0.0137825,-0.187823
+18:55:49 726(10611)D/perception:auto_track: handle output id x y vx vy: 11.7009,-13.7311,-0.00193882,-0.00775146
+18:55:49 871(10611)D/perception:auto_track: handle output id x y vx vy la: 11.5885,-13.7957,-0.00193882,-0.00775146
+18:55:50 006(10611)D/perception:auto_track: handle output id x y vx vy: 11.5629,-13.8496,-0.025651,-0.053854
+18:55:50 145(10611)D/perception:auto_track: handle output id x y vx vy la: 11.5412,-13.8728,-0.025651,-0.053854
+18:55:50 301(10611)D/perception:auto_track: handle output id x y vx vy: 11.5338,-13.8857,-0.0073967,-0.0129385
+18:55:50 437(10611)D/perception:auto_track: handle output id x y vx vy la: 11.5294,-13.8935,-0.0073967,-0.0129385
+18:55:50 572(10611)D/perception:auto_track: handle output id x y vx vy: 11.5377,-13.8717,0.00837803,0.0218439
+18:55:50 707(10611)D/perception:auto_track: handle output id x y vx vy la: 11.5365,-13.853,0.00837803,0.0218439
+18:55:50 857(10611)D/perception:auto_track: handle output id x y vx vy: 11.3671,-13.8302,-0.169395,0.0227919
+18:55:51 013(10611)D/perception:auto_track: handle output id x y vx vy la: 11.3802,-13.8168,-0.169395,0.0227919
+18:55:51 158(10611)D/perception:auto_track: handle output id x y vx vy: 11.4412,-13.7751,0.0610476,0.0416822
+18:55:51 304(10611)D/perception:auto_track: handle output id x y vx vy la: 11.6451,-13.6756,0.0610476,0.0416822
+18:55:51 459(10611)D/perception:auto_track: handle output id x y vx vy: 11.7276,-13.6177,0.0824213,0.0578461
+18:55:51 603(10611)D/perception:auto_track: handle output id x y vx vy la: 11.7276,-13.6141,0.0824213,0.0578461
+18:55:51 745(10611)D/perception:auto_track: handle output id x y vx vy: 11.9758,-13.5843,0.248223,0.0298691
+18:55:51 891(10611)D/perception:auto_track: handle output id x y vx vy la: 12.0136,-13.5613,0.248223,0.0298691
+18:55:52 030(10611)D/perception:auto_track: handle output id x y vx vy: 12.0163,-13.5229,0.0026474,0.0383406
+18:55:52 168(10611)D/perception:auto_track: handle output id x y vx vy la: 12.0196,-13.5136,0.0026474,0.0383406
+18:55:52 306(10611)D/perception:auto_track: handle output id x y vx vy: 12.1127,-13.4035,0.0930614,0.110161
+18:55:52 452(10611)D/perception:auto_track: handle output id x y vx vy la: 12.1754,-13.3423,0.0930614,0.110161
+18:55:52 612(10611)D/perception:auto_track: handle output id x y vx vy: 12.1828,-13.3322,0.00740433,0.0101528
+18:55:52 764(10611)D/perception:auto_track: handle output id x y vx vy la: 12.1868,-13.3395,0.00740433,0.0101528
+18:55:52 915(10611)D/perception:auto_track: handle output id x y vx vy: 12.1755,-13.3233,-0.0112896,0.0161428
+18:55:53 056(10611)D/perception:auto_track: handle output id x y vx vy la: 12.1524,-13.2655,-0.0112896,0.0161428
+18:55:53 194(10611)D/perception:auto_track: handle output id x y vx vy: 12.258,-13.2063,0.105613,0.059124
+18:55:53 330(10611)D/perception:auto_track: handle output id x y vx vy la: 12.2199,-13.166,0.105613,0.059124
+18:55:53 478(10611)D/perception:auto_track: handle output id x y vx vy: 12.1862,-13.1735,-0.0337248,-0.00749779
+18:55:53 621(10611)D/perception:auto_track: handle output id x y vx vy la: 11.9221,-13.0071,-0.0337248,-0.00749779
+18:55:53 766(10611)D/perception:auto_track: handle output id x y vx vy: 11.9221,-13.0071,0,0
+18:55:53 904(10611)D/perception:auto_track: handle output id x y vx vy la: 11.8937,-12.9815,0,0
+18:55:54 057(10611)D/perception:auto_track: handle output id x y vx vy: 11.8907,-12.9832,-0.00299835,-0.00169086
+18:55:54 198(10611)D/perception:auto_track: handle output id x y vx vy la: 11.8905,-12.9954,-0.00299835,-0.00169086
+18:55:54 331(10611)D/perception:auto_track: handle output id x y vx vy: 12.0769,-13.1252,0.186431,-0.129746
+18:55:54 482(10611)D/perception:auto_track: handle output id x y vx vy la: 12.1497,-13.2057,0.186431,-0.129746
+18:55:54 619(10611)D/perception:auto_track: handle output id x y vx vy: 12.2531,-13.2766,0.103449,-0.0709419
+18:55:54 773(10611)D/perception:auto_track: handle output id x y vx vy la: 12.2787,-13.3021,0.103449,-0.0709419
+18:55:54 943(10611)D/perception:auto_track: handle output id x y vx vy: 12.4488,-13.1553,0.17007,0.146802
+18:55:55 095(10611)D/perception:auto_track: handle output id x y vx vy la: 12.4641,-13.1765,0.17007,0.146802
+18:55:55 255(10611)D/perception:auto_track: handle output id x y vx vy: 12.4566,-13.1785,-0.0075531,-0.00200939
+18:55:55 373(10611)D/perception:auto_track: handle output id x y vx vy la: 12.4526,-13.182,-0.0075531,-0.00200939
+18:55:55 505(10611)D/perception:auto_track: handle output id x y vx vy: 12.4489,-13.1788,-0.00370693,0.00313282
+18:55:55 669(10611)D/perception:auto_track: handle output id x y vx vy la: 12.4515,-13.1783,-0.00370693,0.00313282
+18:55:55 830(10611)D/perception:auto_track: handle output id x y vx vy: 12.4549,-13.1807,0.0033102,-0.00245762
+18:55:55 972(10611)D/perception:auto_track: handle output id x y vx vy la: 12.4576,-13.1859,0.0033102,-0.00245762
+18:55:56 114(10611)D/perception:auto_track: handle output id x y vx vy: 12.4547,-13.1853,-0.00297451,0.000597954
+18:55:56 273(10611)D/perception:auto_track: handle output id x y vx vy la: 12.4571,-13.1875,-0.00297451,0.000597954
+18:55:56 428(10611)D/perception:auto_track: handle output id x y vx vy: 12.4539,-13.1911,-0.00310802,-0.00360584
+18:55:56 573(10611)D/perception:auto_track: handle output id x y vx vy la: 12.4519,-13.1942,-0.00310802,-0.00360584
+18:55:56 713(10611)D/perception:auto_track: handle output id x y vx vy: 12.4803,-13.191,0.0284224,0.0031395
+18:55:56 857(10611)D/perception:auto_track: handle output id x y vx vy la: 12.5437,-13.1681,0.0284224,0.0031395
+18:55:57 010(10611)D/perception:auto_track: handle output id x y vx vy: 12.5738,-13.1387,0.0300989,0.0293732
+18:55:57 173(10611)D/perception:auto_track: handle output id x y vx vy la: 12.5971,-13.14,0.0300989,0.0293732
+18:55:57 320(10611)D/perception:auto_track: handle output id x y vx vy: 12.6038,-13.1251,0.00667667,0.0148897
+18:55:57 460(10611)D/perception:auto_track: handle output id x y vx vy la: 12.34,-13.2275,0.00667667,0.0148897
+18:55:57 597(10611)D/perception:auto_track: handle output id x y vx vy: 12.3407,-13.2264,0.000675201,0.00114059
+18:55:57 755(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3335,-13.2377,0.000675201,0.00114059
+18:55:57 891(10611)D/perception:auto_track: handle output id x y vx vy: 12.3186,-13.2412,-0.0148506,-0.00350475
+18:55:58 039(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3176,-13.2419,-0.0148506,-0.00350475
+18:55:58 175(10611)D/perception:auto_track: handle output id x y vx vy: 12.3109,-13.2425,-0.00672245,-0.000593185
+18:55:58 326(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3107,-13.2424,-0.00672245,-0.000593185
+18:55:58 476(10611)D/perception:auto_track: handle output id x y vx vy: 12.3107,-13.2424,-3.05176e-05,4.3869e-05
+18:55:58 628(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3117,-13.2379,-3.05176e-05,4.3869e-05
+18:55:58 777(10611)D/perception:auto_track: handle output id x y vx vy: 12.4194,-13.293,0.107684,-0.0551786
+18:55:58 939(10611)D/perception:auto_track: handle output id x y vx vy la: 12.4181,-13.2904,0.107684,-0.0551786
+18:55:59 085(10611)D/perception:auto_track: handle output id x y vx vy: 12.4178,-13.2903,-0.000276566,0.000142097
+18:55:59 252(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3115,-13.2332,-0.000276566,0.000142097
+18:55:59 411(10611)D/perception:auto_track: handle output id x y vx vy: 12.3028,-13.2308,-0.00868511,0.00238037
+18:55:59 569(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3027,-13.2307,-0.00868511,0.00238037
+18:55:59 713(10611)D/perception:auto_track: handle output id x y vx vy: 12.3081,-13.2314,0.00535107,-0.000617027
+18:55:59 847(10611)D/perception:auto_track: handle output id x y vx vy la: 12.308,-13.2314,0.00535107,-0.000617027
+18:55:59 982(10611)D/perception:auto_track: handle output id x y vx vy: 12.3094,-13.2343,0.00138092,-0.00293636
+18:56:00 143(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3133,-13.2411,0.00138092,-0.00293636
+18:56:00 300(10611)D/perception:auto_track: handle output id x y vx vy: 12.2964,-13.2482,-0.0169363,-0.00710583
+18:56:00 449(10611)D/perception:auto_track: handle output id x y vx vy la: 12.2488,-13.2542,-0.0169363,-0.00710583
+18:56:00 584(10611)D/perception:auto_track: handle output id x y vx vy: 12.2392,-13.2632,-0.0096426,-0.00901508
+18:56:00 733(10611)D/perception:auto_track: handle output id x y vx vy la: 12.2396,-13.2431,-0.0096426,-0.00901508
+18:56:00 894(10611)D/perception:auto_track: handle output id x y vx vy: 12.3975,-13.1284,0.157877,0.114748
+18:56:01 041(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3745,-13.1593,0.157877,0.114748
+18:56:01 189(10611)D/perception:auto_track: handle output id x y vx vy: 12.3561,-13.2264,-0.0184355,-0.0670643
+18:56:01 336(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3499,-13.2385,-0.0184355,-0.0670643
+18:56:01 485(10611)D/perception:auto_track: handle output id x y vx vy: 12.3297,-13.2458,-0.020196,-0.00738335
+18:56:01 628(10611)D/perception:auto_track: handle output id x y vx vy la: 12.3238,-13.2468,-0.020196,-0.00738335
+18:56:01 766(10611)D/perception:auto_track: handle output id x y vx vy: 12.3237,-13.2466,-7.9155e-05,0.000201225
+18:56:01 910(10611)D/perception:auto_track: handle output id x y vx vy la: 12.2566,-13.2078,-7.9155e-05,0.000201225
+18:56:02 068(10611)D/perception:auto_track: handle output id x y vx vy: 12.0984,-13.3615,-0.158165,-0.153746
+18:56:02 229(10611)D/perception:auto_track: handle output id x y vx vy la: 12.0912,-13.3869,-0.158165,-0.153746
